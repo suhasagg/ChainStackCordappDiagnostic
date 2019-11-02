@@ -1,0 +1,1118 @@
+[INFO ] 2019-11-02T08:28:35,653 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:28:36,928 [pool-1-thread-1] RPCClient - Startup took 1249 msec
+[INFO ] 2019-11-02T08:28:37,747 [pool-1-thread-1] PluginsService - no modules loaded
+[INFO ] 2019-11-02T08:28:37,749 [pool-1-thread-1] PluginsService - loaded plugin [org.elasticsearch.index.reindex.ReindexPlugin]
+[INFO ] 2019-11-02T08:28:37,750 [pool-1-thread-1] PluginsService - loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+[INFO ] 2019-11-02T08:28:37,750 [pool-1-thread-1] PluginsService - loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+[INFO ] 2019-11-02T08:28:37,750 [pool-1-thread-1] PluginsService - loaded plugin [org.elasticsearch.script.mustache.MustachePlugin]
+[INFO ] 2019-11-02T08:28:37,751 [pool-1-thread-1] PluginsService - loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+[INFO ] 2019-11-02T08:28:39,645 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:28:39,890 [pool-1-thread-1] RPCClient - Startup took 244 msec
+[INFO ] 2019-11-02T08:28:40,303 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:28:40,450 [pool-1-thread-1] RPCClient - Startup took 145 msec
+[INFO ] 2019-11-02T08:28:40,903 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:28:41,057 [pool-1-thread-1] RPCClient - Startup took 153 msec
+[INFO ] 2019-11-02T08:28:41,480 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:28:41,609 [pool-1-thread-1] RPCClient - Startup took 128 msec
+[INFO ] 2019-11-02T08:28:42,095 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:28:42,279 [pool-1-thread-1] RPCClient - Startup took 183 msec
+[INFO ] 2019-11-02T08:28:43,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:28:43,529 [pool-1-thread-1] RPCClient - Startup took 211 msec
+[INFO ] 2019-11-02T08:28:43,950 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:28:44,091 [pool-1-thread-1] RPCClient - Startup took 139 msec
+[INFO ] 2019-11-02T08:28:46,318 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:28:46,501 [pool-1-thread-1] RPCClient - Startup took 182 msec
+[INFO ] 2019-11-02T08:28:46,893 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:28:47,027 [pool-1-thread-1] RPCClient - Startup took 133 msec
+[INFO ] 2019-11-02T08:28:49,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:28:49,485 [pool-1-thread-1] RPCClient - Startup took 166 msec
+[INFO ] 2019-11-02T08:28:49,812 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:28:49,957 [pool-1-thread-1] RPCClient - Startup took 143 msec
+[INFO ] 2019-11-02T08:28:52,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:28:52,473 [pool-1-thread-1] RPCClient - Startup took 154 msec
+[INFO ] 2019-11-02T08:28:52,916 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:28:53,086 [pool-1-thread-1] RPCClient - Startup took 169 msec
+[INFO ] 2019-11-02T08:28:55,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:28:55,532 [pool-1-thread-1] RPCClient - Startup took 214 msec
+[INFO ] 2019-11-02T08:28:55,846 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:28:56,034 [pool-1-thread-1] RPCClient - Startup took 187 msec
+[INFO ] 2019-11-02T08:28:58,318 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:28:58,554 [pool-1-thread-1] RPCClient - Startup took 234 msec
+[INFO ] 2019-11-02T08:28:58,974 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:28:59,107 [pool-1-thread-1] RPCClient - Startup took 131 msec
+[INFO ] 2019-11-02T08:29:01,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:29:01,461 [pool-1-thread-1] RPCClient - Startup took 142 msec
+[INFO ] 2019-11-02T08:29:01,816 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:29:02,012 [pool-1-thread-1] RPCClient - Startup took 195 msec
+[INFO ] 2019-11-02T08:29:04,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:29:04,496 [pool-1-thread-1] RPCClient - Startup took 178 msec
+[INFO ] 2019-11-02T08:29:04,829 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:29:04,981 [pool-1-thread-1] RPCClient - Startup took 151 msec
+[INFO ] 2019-11-02T08:29:07,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:29:07,480 [pool-1-thread-1] RPCClient - Startup took 162 msec
+[INFO ] 2019-11-02T08:29:07,893 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:29:08,036 [pool-1-thread-1] RPCClient - Startup took 142 msec
+[INFO ] 2019-11-02T08:29:10,318 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:29:10,451 [pool-1-thread-1] RPCClient - Startup took 132 msec
+[INFO ] 2019-11-02T08:29:10,904 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:29:11,091 [pool-1-thread-1] RPCClient - Startup took 186 msec
+[INFO ] 2019-11-02T08:29:13,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:29:13,543 [pool-1-thread-1] RPCClient - Startup took 226 msec
+[INFO ] 2019-11-02T08:29:13,849 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:29:14,003 [pool-1-thread-1] RPCClient - Startup took 153 msec
+[INFO ] 2019-11-02T08:29:16,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:29:16,515 [pool-1-thread-1] RPCClient - Startup took 196 msec
+[INFO ] 2019-11-02T08:29:17,025 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:29:17,164 [pool-1-thread-1] RPCClient - Startup took 138 msec
+[INFO ] 2019-11-02T08:29:19,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:29:19,485 [pool-1-thread-1] RPCClient - Startup took 167 msec
+[INFO ] 2019-11-02T08:29:19,895 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:29:20,045 [pool-1-thread-1] RPCClient - Startup took 148 msec
+[INFO ] 2019-11-02T08:29:22,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:29:22,714 [pool-1-thread-1] RPCClient - Startup took 395 msec
+[INFO ] 2019-11-02T08:29:23,232 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:29:23,417 [pool-1-thread-1] RPCClient - Startup took 182 msec
+[INFO ] 2019-11-02T08:29:25,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:29:25,614 [pool-1-thread-1] RPCClient - Startup took 295 msec
+[INFO ] 2019-11-02T08:29:26,677 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:29:26,883 [pool-1-thread-1] RPCClient - Startup took 205 msec
+[INFO ] 2019-11-02T08:29:28,318 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:29:28,498 [pool-1-thread-1] RPCClient - Startup took 177 msec
+[INFO ] 2019-11-02T08:29:28,891 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:29:29,073 [pool-1-thread-1] RPCClient - Startup took 181 msec
+[INFO ] 2019-11-02T08:29:31,318 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:29:31,503 [pool-1-thread-1] RPCClient - Startup took 184 msec
+[INFO ] 2019-11-02T08:29:32,273 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:29:32,595 [pool-1-thread-1] RPCClient - Startup took 319 msec
+[INFO ] 2019-11-02T08:29:34,318 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:29:34,498 [pool-1-thread-1] RPCClient - Startup took 179 msec
+[INFO ] 2019-11-02T08:29:34,813 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:29:34,974 [pool-1-thread-1] RPCClient - Startup took 159 msec
+[INFO ] 2019-11-02T08:29:37,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:29:37,562 [pool-1-thread-1] RPCClient - Startup took 243 msec
+[INFO ] 2019-11-02T08:29:38,022 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:29:38,314 [pool-1-thread-1] RPCClient - Startup took 289 msec
+[INFO ] 2019-11-02T08:29:40,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:29:40,587 [pool-1-thread-1] RPCClient - Startup took 268 msec
+[INFO ] 2019-11-02T08:29:41,003 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:29:41,186 [pool-1-thread-1] RPCClient - Startup took 182 msec
+[INFO ] 2019-11-02T08:29:43,318 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:29:43,562 [pool-1-thread-1] RPCClient - Startup took 243 msec
+[INFO ] 2019-11-02T08:29:44,171 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:29:44,356 [pool-1-thread-1] RPCClient - Startup took 183 msec
+[INFO ] 2019-11-02T08:29:46,318 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:29:46,519 [pool-1-thread-1] RPCClient - Startup took 199 msec
+[INFO ] 2019-11-02T08:29:46,905 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:29:47,046 [pool-1-thread-1] RPCClient - Startup took 140 msec
+[INFO ] 2019-11-02T08:29:49,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:29:49,512 [pool-1-thread-1] RPCClient - Startup took 193 msec
+[INFO ] 2019-11-02T08:29:49,810 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:29:49,939 [pool-1-thread-1] RPCClient - Startup took 127 msec
+[INFO ] 2019-11-02T08:29:52,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:29:52,496 [pool-1-thread-1] RPCClient - Startup took 178 msec
+[INFO ] 2019-11-02T08:29:52,894 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:29:52,995 [pool-1-thread-1] RPCClient - Startup took 99 msec
+[INFO ] 2019-11-02T08:29:55,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:29:55,549 [pool-1-thread-1] RPCClient - Startup took 230 msec
+[INFO ] 2019-11-02T08:29:55,850 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:29:55,988 [pool-1-thread-1] RPCClient - Startup took 136 msec
+[INFO ] 2019-11-02T08:29:58,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:29:58,452 [pool-1-thread-1] RPCClient - Startup took 134 msec
+[INFO ] 2019-11-02T08:29:58,947 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:29:59,159 [pool-1-thread-1] RPCClient - Startup took 210 msec
+[INFO ] 2019-11-02T08:30:01,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:30:01,510 [pool-1-thread-1] RPCClient - Startup took 191 msec
+[INFO ] 2019-11-02T08:30:01,840 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:30:01,975 [pool-1-thread-1] RPCClient - Startup took 134 msec
+[INFO ] 2019-11-02T08:30:04,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:30:04,472 [pool-1-thread-1] RPCClient - Startup took 153 msec
+[INFO ] 2019-11-02T08:30:04,796 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:30:04,907 [pool-1-thread-1] RPCClient - Startup took 110 msec
+[INFO ] 2019-11-02T08:30:07,318 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:30:07,542 [pool-1-thread-1] RPCClient - Startup took 223 msec
+[INFO ] 2019-11-02T08:30:08,078 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:30:08,188 [pool-1-thread-1] RPCClient - Startup took 109 msec
+[INFO ] 2019-11-02T08:30:10,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:30:10,453 [pool-1-thread-1] RPCClient - Startup took 134 msec
+[INFO ] 2019-11-02T08:30:10,831 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:30:10,937 [pool-1-thread-1] RPCClient - Startup took 105 msec
+[INFO ] 2019-11-02T08:30:13,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:30:13,488 [pool-1-thread-1] RPCClient - Startup took 170 msec
+[INFO ] 2019-11-02T08:30:14,248 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:30:14,431 [pool-1-thread-1] RPCClient - Startup took 182 msec
+[INFO ] 2019-11-02T08:30:16,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:30:16,509 [pool-1-thread-1] RPCClient - Startup took 190 msec
+[INFO ] 2019-11-02T08:30:17,164 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:30:17,349 [pool-1-thread-1] RPCClient - Startup took 183 msec
+[INFO ] 2019-11-02T08:30:19,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:30:19,452 [pool-1-thread-1] RPCClient - Startup took 134 msec
+[INFO ] 2019-11-02T08:30:19,752 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:30:19,941 [pool-1-thread-1] RPCClient - Startup took 187 msec
+[INFO ] 2019-11-02T08:30:22,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:30:22,497 [pool-1-thread-1] RPCClient - Startup took 178 msec
+[INFO ] 2019-11-02T08:30:22,756 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:30:22,868 [pool-1-thread-1] RPCClient - Startup took 112 msec
+[INFO ] 2019-11-02T08:30:25,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:30:25,527 [pool-1-thread-1] RPCClient - Startup took 209 msec
+[INFO ] 2019-11-02T08:30:25,788 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:30:26,447 [pool-1-thread-1] RPCClient - Startup took 658 msec
+[INFO ] 2019-11-02T08:30:28,318 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:30:28,438 [pool-1-thread-1] RPCClient - Startup took 119 msec
+[INFO ] 2019-11-02T08:30:28,995 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:30:29,205 [pool-1-thread-1] RPCClient - Startup took 209 msec
+[INFO ] 2019-11-02T08:30:31,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:30:31,709 [pool-1-thread-1] RPCClient - Startup took 391 msec
+[INFO ] 2019-11-02T08:30:32,003 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:30:32,130 [pool-1-thread-1] RPCClient - Startup took 126 msec
+[INFO ] 2019-11-02T08:30:34,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:30:34,506 [pool-1-thread-1] RPCClient - Startup took 187 msec
+[INFO ] 2019-11-02T08:30:34,934 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:30:35,070 [pool-1-thread-1] RPCClient - Startup took 134 msec
+[INFO ] 2019-11-02T08:30:37,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:30:37,481 [pool-1-thread-1] RPCClient - Startup took 162 msec
+[INFO ] 2019-11-02T08:30:37,808 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:30:37,949 [pool-1-thread-1] RPCClient - Startup took 139 msec
+[INFO ] 2019-11-02T08:30:40,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:30:40,539 [pool-1-thread-1] RPCClient - Startup took 221 msec
+[INFO ] 2019-11-02T08:30:40,879 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:30:41,005 [pool-1-thread-1] RPCClient - Startup took 125 msec
+[INFO ] 2019-11-02T08:30:43,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:30:43,539 [pool-1-thread-1] RPCClient - Startup took 221 msec
+[INFO ] 2019-11-02T08:30:43,881 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:30:44,009 [pool-1-thread-1] RPCClient - Startup took 127 msec
+[INFO ] 2019-11-02T08:30:46,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:30:46,513 [pool-1-thread-1] RPCClient - Startup took 195 msec
+[INFO ] 2019-11-02T08:30:46,811 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:30:46,950 [pool-1-thread-1] RPCClient - Startup took 138 msec
+[INFO ] 2019-11-02T08:30:49,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:30:49,473 [pool-1-thread-1] RPCClient - Startup took 154 msec
+[INFO ] 2019-11-02T08:30:49,814 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:30:49,969 [pool-1-thread-1] RPCClient - Startup took 153 msec
+[INFO ] 2019-11-02T08:30:52,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:30:52,501 [pool-1-thread-1] RPCClient - Startup took 183 msec
+[INFO ] 2019-11-02T08:30:52,822 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:30:52,957 [pool-1-thread-1] RPCClient - Startup took 134 msec
+[INFO ] 2019-11-02T08:30:55,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:30:55,497 [pool-1-thread-1] RPCClient - Startup took 179 msec
+[INFO ] 2019-11-02T08:30:55,807 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:30:55,971 [pool-1-thread-1] RPCClient - Startup took 162 msec
+[INFO ] 2019-11-02T08:30:58,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:30:58,520 [pool-1-thread-1] RPCClient - Startup took 201 msec
+[INFO ] 2019-11-02T08:30:58,804 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:30:58,929 [pool-1-thread-1] RPCClient - Startup took 124 msec
+[INFO ] 2019-11-02T08:31:01,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:31:01,474 [pool-1-thread-1] RPCClient - Startup took 155 msec
+[INFO ] 2019-11-02T08:31:01,741 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:31:01,852 [pool-1-thread-1] RPCClient - Startup took 110 msec
+[INFO ] 2019-11-02T08:31:04,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:31:04,455 [pool-1-thread-1] RPCClient - Startup took 137 msec
+[INFO ] 2019-11-02T08:31:04,721 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:31:04,829 [pool-1-thread-1] RPCClient - Startup took 107 msec
+[INFO ] 2019-11-02T08:31:07,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:31:07,510 [pool-1-thread-1] RPCClient - Startup took 191 msec
+[INFO ] 2019-11-02T08:31:07,807 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:31:07,915 [pool-1-thread-1] RPCClient - Startup took 107 msec
+[INFO ] 2019-11-02T08:31:10,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:31:10,526 [pool-1-thread-1] RPCClient - Startup took 208 msec
+[INFO ] 2019-11-02T08:31:10,820 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:31:10,930 [pool-1-thread-1] RPCClient - Startup took 108 msec
+[INFO ] 2019-11-02T08:31:13,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:31:13,500 [pool-1-thread-1] RPCClient - Startup took 181 msec
+[INFO ] 2019-11-02T08:31:14,087 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:31:14,214 [pool-1-thread-1] RPCClient - Startup took 126 msec
+[INFO ] 2019-11-02T08:31:16,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:31:16,470 [pool-1-thread-1] RPCClient - Startup took 151 msec
+[INFO ] 2019-11-02T08:31:16,755 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:31:16,871 [pool-1-thread-1] RPCClient - Startup took 115 msec
+[INFO ] 2019-11-02T08:31:19,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:31:19,470 [pool-1-thread-1] RPCClient - Startup took 151 msec
+[INFO ] 2019-11-02T08:31:19,781 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:31:19,903 [pool-1-thread-1] RPCClient - Startup took 121 msec
+[INFO ] 2019-11-02T08:31:22,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:31:22,444 [pool-1-thread-1] RPCClient - Startup took 125 msec
+[INFO ] 2019-11-02T08:31:22,761 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:31:22,896 [pool-1-thread-1] RPCClient - Startup took 133 msec
+[INFO ] 2019-11-02T08:31:25,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:31:25,479 [pool-1-thread-1] RPCClient - Startup took 160 msec
+[INFO ] 2019-11-02T08:31:25,753 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:31:25,878 [pool-1-thread-1] RPCClient - Startup took 124 msec
+[INFO ] 2019-11-02T08:31:28,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:31:28,440 [pool-1-thread-1] RPCClient - Startup took 121 msec
+[INFO ] 2019-11-02T08:31:28,927 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:31:29,048 [pool-1-thread-1] RPCClient - Startup took 120 msec
+[INFO ] 2019-11-02T08:31:31,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:31:31,438 [pool-1-thread-1] RPCClient - Startup took 120 msec
+[INFO ] 2019-11-02T08:31:31,717 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:31:31,839 [pool-1-thread-1] RPCClient - Startup took 120 msec
+[INFO ] 2019-11-02T08:31:34,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:31:34,460 [pool-1-thread-1] RPCClient - Startup took 142 msec
+[INFO ] 2019-11-02T08:31:34,757 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:31:34,880 [pool-1-thread-1] RPCClient - Startup took 122 msec
+[INFO ] 2019-11-02T08:31:37,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:31:37,467 [pool-1-thread-1] RPCClient - Startup took 149 msec
+[INFO ] 2019-11-02T08:31:37,742 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:31:37,864 [pool-1-thread-1] RPCClient - Startup took 121 msec
+[INFO ] 2019-11-02T08:31:40,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:31:40,486 [pool-1-thread-1] RPCClient - Startup took 168 msec
+[INFO ] 2019-11-02T08:31:40,768 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:31:40,905 [pool-1-thread-1] RPCClient - Startup took 136 msec
+[INFO ] 2019-11-02T08:31:43,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:31:43,529 [pool-1-thread-1] RPCClient - Startup took 211 msec
+[INFO ] 2019-11-02T08:31:43,874 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:31:44,027 [pool-1-thread-1] RPCClient - Startup took 151 msec
+[INFO ] 2019-11-02T08:31:46,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:31:46,489 [pool-1-thread-1] RPCClient - Startup took 171 msec
+[INFO ] 2019-11-02T08:31:46,792 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:31:46,922 [pool-1-thread-1] RPCClient - Startup took 129 msec
+[INFO ] 2019-11-02T08:31:49,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:31:49,632 [pool-1-thread-1] RPCClient - Startup took 314 msec
+[INFO ] 2019-11-02T08:31:49,989 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:31:50,121 [pool-1-thread-1] RPCClient - Startup took 131 msec
+[INFO ] 2019-11-02T08:31:52,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:31:52,533 [pool-1-thread-1] RPCClient - Startup took 214 msec
+[INFO ] 2019-11-02T08:31:52,863 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:31:52,984 [pool-1-thread-1] RPCClient - Startup took 120 msec
+[INFO ] 2019-11-02T08:31:55,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:31:55,553 [pool-1-thread-1] RPCClient - Startup took 235 msec
+[INFO ] 2019-11-02T08:31:55,866 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:31:55,988 [pool-1-thread-1] RPCClient - Startup took 120 msec
+[INFO ] 2019-11-02T08:31:58,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:31:58,512 [pool-1-thread-1] RPCClient - Startup took 194 msec
+[INFO ] 2019-11-02T08:31:58,807 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:31:58,918 [pool-1-thread-1] RPCClient - Startup took 110 msec
+[INFO ] 2019-11-02T08:32:01,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:32:01,453 [pool-1-thread-1] RPCClient - Startup took 134 msec
+[INFO ] 2019-11-02T08:32:01,730 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:32:01,828 [pool-1-thread-1] RPCClient - Startup took 97 msec
+[INFO ] 2019-11-02T08:32:04,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:32:04,491 [pool-1-thread-1] RPCClient - Startup took 173 msec
+[INFO ] 2019-11-02T08:32:04,795 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:32:04,915 [pool-1-thread-1] RPCClient - Startup took 119 msec
+[INFO ] 2019-11-02T08:32:07,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:32:07,453 [pool-1-thread-1] RPCClient - Startup took 134 msec
+[INFO ] 2019-11-02T08:32:07,766 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:32:08,034 [pool-1-thread-1] RPCClient - Startup took 266 msec
+[INFO ] 2019-11-02T08:32:10,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:32:10,454 [pool-1-thread-1] RPCClient - Startup took 135 msec
+[INFO ] 2019-11-02T08:32:10,853 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:32:10,995 [pool-1-thread-1] RPCClient - Startup took 141 msec
+[INFO ] 2019-11-02T08:32:13,318 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:32:13,501 [pool-1-thread-1] RPCClient - Startup took 181 msec
+[INFO ] 2019-11-02T08:32:13,808 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:32:13,901 [pool-1-thread-1] RPCClient - Startup took 93 msec
+[INFO ] 2019-11-02T08:32:16,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:32:16,493 [pool-1-thread-1] RPCClient - Startup took 175 msec
+[INFO ] 2019-11-02T08:32:16,787 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:32:16,913 [pool-1-thread-1] RPCClient - Startup took 124 msec
+[INFO ] 2019-11-02T08:32:19,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:32:19,507 [pool-1-thread-1] RPCClient - Startup took 188 msec
+[INFO ] 2019-11-02T08:32:19,806 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:32:19,907 [pool-1-thread-1] RPCClient - Startup took 100 msec
+[INFO ] 2019-11-02T08:32:22,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:32:22,443 [pool-1-thread-1] RPCClient - Startup took 124 msec
+[INFO ] 2019-11-02T08:32:22,719 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:32:22,844 [pool-1-thread-1] RPCClient - Startup took 123 msec
+[INFO ] 2019-11-02T08:32:25,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:32:25,523 [pool-1-thread-1] RPCClient - Startup took 205 msec
+[INFO ] 2019-11-02T08:32:25,816 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:32:25,938 [pool-1-thread-1] RPCClient - Startup took 120 msec
+[INFO ] 2019-11-02T08:32:28,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:32:28,547 [pool-1-thread-1] RPCClient - Startup took 228 msec
+[INFO ] 2019-11-02T08:32:28,824 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:32:28,948 [pool-1-thread-1] RPCClient - Startup took 122 msec
+[INFO ] 2019-11-02T08:32:31,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:32:31,534 [pool-1-thread-1] RPCClient - Startup took 215 msec
+[INFO ] 2019-11-02T08:32:32,074 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:32:32,195 [pool-1-thread-1] RPCClient - Startup took 120 msec
+[INFO ] 2019-11-02T08:32:34,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:32:34,522 [pool-1-thread-1] RPCClient - Startup took 204 msec
+[INFO ] 2019-11-02T08:32:35,259 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:32:35,385 [pool-1-thread-1] RPCClient - Startup took 125 msec
+[INFO ] 2019-11-02T08:32:37,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:32:37,534 [pool-1-thread-1] RPCClient - Startup took 216 msec
+[INFO ] 2019-11-02T08:32:37,818 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:32:37,976 [pool-1-thread-1] RPCClient - Startup took 157 msec
+[INFO ] 2019-11-02T08:32:40,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:32:40,536 [pool-1-thread-1] RPCClient - Startup took 217 msec
+[INFO ] 2019-11-02T08:32:40,793 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:32:40,915 [pool-1-thread-1] RPCClient - Startup took 121 msec
+[INFO ] 2019-11-02T08:32:43,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:32:43,461 [pool-1-thread-1] RPCClient - Startup took 142 msec
+[INFO ] 2019-11-02T08:32:43,772 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:32:43,910 [pool-1-thread-1] RPCClient - Startup took 137 msec
+[INFO ] 2019-11-02T08:32:46,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:32:46,526 [pool-1-thread-1] RPCClient - Startup took 207 msec
+[INFO ] 2019-11-02T08:32:46,802 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:32:46,914 [pool-1-thread-1] RPCClient - Startup took 111 msec
+[INFO ] 2019-11-02T08:32:49,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:32:49,477 [pool-1-thread-1] RPCClient - Startup took 158 msec
+[INFO ] 2019-11-02T08:32:49,778 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:32:49,902 [pool-1-thread-1] RPCClient - Startup took 123 msec
+[INFO ] 2019-11-02T08:32:52,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:32:52,547 [pool-1-thread-1] RPCClient - Startup took 228 msec
+[INFO ] 2019-11-02T08:32:52,822 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:32:52,944 [pool-1-thread-1] RPCClient - Startup took 120 msec
+[INFO ] 2019-11-02T08:32:55,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:32:55,529 [pool-1-thread-1] RPCClient - Startup took 210 msec
+[INFO ] 2019-11-02T08:32:55,792 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:32:55,890 [pool-1-thread-1] RPCClient - Startup took 97 msec
+[INFO ] 2019-11-02T08:32:58,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:32:58,556 [pool-1-thread-1] RPCClient - Startup took 237 msec
+[INFO ] 2019-11-02T08:32:58,843 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:32:59,001 [pool-1-thread-1] RPCClient - Startup took 155 msec
+[INFO ] 2019-11-02T08:33:01,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:33:01,545 [pool-1-thread-1] RPCClient - Startup took 226 msec
+[INFO ] 2019-11-02T08:33:01,821 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:33:01,943 [pool-1-thread-1] RPCClient - Startup took 121 msec
+[INFO ] 2019-11-02T08:33:04,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:33:04,525 [pool-1-thread-1] RPCClient - Startup took 207 msec
+[INFO ] 2019-11-02T08:33:04,803 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:33:04,927 [pool-1-thread-1] RPCClient - Startup took 123 msec
+[INFO ] 2019-11-02T08:33:07,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:33:07,446 [pool-1-thread-1] RPCClient - Startup took 127 msec
+[INFO ] 2019-11-02T08:33:07,777 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:33:07,898 [pool-1-thread-1] RPCClient - Startup took 119 msec
+[INFO ] 2019-11-02T08:33:10,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:33:10,469 [pool-1-thread-1] RPCClient - Startup took 150 msec
+[INFO ] 2019-11-02T08:33:10,795 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:33:10,926 [pool-1-thread-1] RPCClient - Startup took 130 msec
+[INFO ] 2019-11-02T08:33:13,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:33:13,669 [pool-1-thread-1] RPCClient - Startup took 352 msec
+[INFO ] 2019-11-02T08:33:14,089 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:33:14,247 [pool-1-thread-1] RPCClient - Startup took 157 msec
+[INFO ] 2019-11-02T08:33:16,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:33:16,945 [pool-1-thread-1] RPCClient - Startup took 626 msec
+[INFO ] 2019-11-02T08:33:17,233 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:33:17,357 [pool-1-thread-1] RPCClient - Startup took 122 msec
+[INFO ] 2019-11-02T08:33:19,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:33:19,485 [pool-1-thread-1] RPCClient - Startup took 167 msec
+[INFO ] 2019-11-02T08:33:20,038 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:33:20,470 [pool-1-thread-1] RPCClient - Startup took 431 msec
+[INFO ] 2019-11-02T08:33:22,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:33:22,525 [pool-1-thread-1] RPCClient - Startup took 207 msec
+[INFO ] 2019-11-02T08:33:22,788 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:33:22,903 [pool-1-thread-1] RPCClient - Startup took 114 msec
+[INFO ] 2019-11-02T08:33:25,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:33:25,442 [pool-1-thread-1] RPCClient - Startup took 123 msec
+[INFO ] 2019-11-02T08:33:25,829 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:33:25,951 [pool-1-thread-1] RPCClient - Startup took 121 msec
+[INFO ] 2019-11-02T08:33:28,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:33:28,436 [pool-1-thread-1] RPCClient - Startup took 118 msec
+[INFO ] 2019-11-02T08:33:28,703 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:33:28,830 [pool-1-thread-1] RPCClient - Startup took 126 msec
+[INFO ] 2019-11-02T08:33:31,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:33:31,458 [pool-1-thread-1] RPCClient - Startup took 139 msec
+[INFO ] 2019-11-02T08:33:31,724 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:33:31,852 [pool-1-thread-1] RPCClient - Startup took 127 msec
+[INFO ] 2019-11-02T08:33:34,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:33:34,451 [pool-1-thread-1] RPCClient - Startup took 133 msec
+[INFO ] 2019-11-02T08:33:34,726 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:33:34,840 [pool-1-thread-1] RPCClient - Startup took 113 msec
+[INFO ] 2019-11-02T08:33:37,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:33:37,460 [pool-1-thread-1] RPCClient - Startup took 142 msec
+[INFO ] 2019-11-02T08:33:37,722 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:33:37,845 [pool-1-thread-1] RPCClient - Startup took 122 msec
+[INFO ] 2019-11-02T08:33:40,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:33:40,476 [pool-1-thread-1] RPCClient - Startup took 157 msec
+[INFO ] 2019-11-02T08:33:40,748 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:33:40,861 [pool-1-thread-1] RPCClient - Startup took 112 msec
+[INFO ] 2019-11-02T08:33:43,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:33:43,443 [pool-1-thread-1] RPCClient - Startup took 125 msec
+[INFO ] 2019-11-02T08:33:43,839 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:33:43,953 [pool-1-thread-1] RPCClient - Startup took 113 msec
+[INFO ] 2019-11-02T08:33:46,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:33:46,473 [pool-1-thread-1] RPCClient - Startup took 155 msec
+[INFO ] 2019-11-02T08:33:46,747 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:33:46,855 [pool-1-thread-1] RPCClient - Startup took 107 msec
+[INFO ] 2019-11-02T08:33:49,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:33:49,467 [pool-1-thread-1] RPCClient - Startup took 149 msec
+[INFO ] 2019-11-02T08:33:49,782 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:33:49,901 [pool-1-thread-1] RPCClient - Startup took 118 msec
+[INFO ] 2019-11-02T08:33:52,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:33:52,539 [pool-1-thread-1] RPCClient - Startup took 221 msec
+[INFO ] 2019-11-02T08:33:52,828 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:33:53,078 [pool-1-thread-1] RPCClient - Startup took 249 msec
+[INFO ] 2019-11-02T08:33:55,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:33:55,534 [pool-1-thread-1] RPCClient - Startup took 216 msec
+[INFO ] 2019-11-02T08:33:55,833 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:33:55,953 [pool-1-thread-1] RPCClient - Startup took 118 msec
+[INFO ] 2019-11-02T08:33:58,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:33:58,433 [pool-1-thread-1] RPCClient - Startup took 115 msec
+[INFO ] 2019-11-02T08:33:58,689 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:33:58,804 [pool-1-thread-1] RPCClient - Startup took 114 msec
+[INFO ] 2019-11-02T08:34:01,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:34:01,529 [pool-1-thread-1] RPCClient - Startup took 211 msec
+[INFO ] 2019-11-02T08:34:01,793 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:34:01,913 [pool-1-thread-1] RPCClient - Startup took 119 msec
+[INFO ] 2019-11-02T08:34:04,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:34:04,540 [pool-1-thread-1] RPCClient - Startup took 221 msec
+[INFO ] 2019-11-02T08:34:04,830 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:34:04,951 [pool-1-thread-1] RPCClient - Startup took 120 msec
+[INFO ] 2019-11-02T08:34:07,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:34:07,527 [pool-1-thread-1] RPCClient - Startup took 209 msec
+[INFO ] 2019-11-02T08:34:07,805 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:34:07,928 [pool-1-thread-1] RPCClient - Startup took 122 msec
+[INFO ] 2019-11-02T08:34:10,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:34:10,569 [pool-1-thread-1] RPCClient - Startup took 250 msec
+[INFO ] 2019-11-02T08:34:10,867 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:34:10,999 [pool-1-thread-1] RPCClient - Startup took 130 msec
+[INFO ] 2019-11-02T08:34:13,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:34:13,590 [pool-1-thread-1] RPCClient - Startup took 272 msec
+[INFO ] 2019-11-02T08:34:13,968 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:34:14,178 [pool-1-thread-1] RPCClient - Startup took 209 msec
+[INFO ] 2019-11-02T08:34:16,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:34:16,475 [pool-1-thread-1] RPCClient - Startup took 157 msec
+[INFO ] 2019-11-02T08:34:17,040 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:34:17,148 [pool-1-thread-1] RPCClient - Startup took 107 msec
+[INFO ] 2019-11-02T08:34:19,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:34:19,497 [pool-1-thread-1] RPCClient - Startup took 178 msec
+[INFO ] 2019-11-02T08:34:19,815 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:34:19,915 [pool-1-thread-1] RPCClient - Startup took 99 msec
+[INFO ] 2019-11-02T08:34:22,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:34:22,580 [pool-1-thread-1] RPCClient - Startup took 262 msec
+[INFO ] 2019-11-02T08:34:22,880 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:34:22,993 [pool-1-thread-1] RPCClient - Startup took 112 msec
+[INFO ] 2019-11-02T08:34:25,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:34:25,515 [pool-1-thread-1] RPCClient - Startup took 197 msec
+[INFO ] 2019-11-02T08:34:25,785 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:34:25,937 [pool-1-thread-1] RPCClient - Startup took 150 msec
+[INFO ] 2019-11-02T08:34:28,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:34:28,431 [pool-1-thread-1] RPCClient - Startup took 113 msec
+[INFO ] 2019-11-02T08:34:28,720 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:34:28,832 [pool-1-thread-1] RPCClient - Startup took 112 msec
+[INFO ] 2019-11-02T08:34:31,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:34:31,526 [pool-1-thread-1] RPCClient - Startup took 208 msec
+[INFO ] 2019-11-02T08:34:31,791 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:34:31,935 [pool-1-thread-1] RPCClient - Startup took 143 msec
+[INFO ] 2019-11-02T08:34:34,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:34:34,540 [pool-1-thread-1] RPCClient - Startup took 221 msec
+[INFO ] 2019-11-02T08:34:34,817 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:34:34,938 [pool-1-thread-1] RPCClient - Startup took 120 msec
+[INFO ] 2019-11-02T08:34:37,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:34:37,526 [pool-1-thread-1] RPCClient - Startup took 207 msec
+[INFO ] 2019-11-02T08:34:37,870 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:34:38,033 [pool-1-thread-1] RPCClient - Startup took 162 msec
+[INFO ] 2019-11-02T08:34:40,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:34:40,542 [pool-1-thread-1] RPCClient - Startup took 224 msec
+[INFO ] 2019-11-02T08:34:40,830 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:34:40,945 [pool-1-thread-1] RPCClient - Startup took 114 msec
+[INFO ] 2019-11-02T08:34:43,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:34:43,693 [pool-1-thread-1] RPCClient - Startup took 374 msec
+[INFO ] 2019-11-02T08:34:44,124 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:34:44,238 [pool-1-thread-1] RPCClient - Startup took 113 msec
+[INFO ] 2019-11-02T08:34:46,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:34:46,475 [pool-1-thread-1] RPCClient - Startup took 156 msec
+[INFO ] 2019-11-02T08:34:46,762 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:34:46,859 [pool-1-thread-1] RPCClient - Startup took 96 msec
+[INFO ] 2019-11-02T08:34:49,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:34:49,474 [pool-1-thread-1] RPCClient - Startup took 156 msec
+[INFO ] 2019-11-02T08:34:49,786 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:34:49,908 [pool-1-thread-1] RPCClient - Startup took 120 msec
+[INFO ] 2019-11-02T08:34:52,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:34:52,542 [pool-1-thread-1] RPCClient - Startup took 223 msec
+[INFO ] 2019-11-02T08:34:52,805 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:34:52,925 [pool-1-thread-1] RPCClient - Startup took 119 msec
+[INFO ] 2019-11-02T08:34:55,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:34:55,531 [pool-1-thread-1] RPCClient - Startup took 213 msec
+[INFO ] 2019-11-02T08:34:55,820 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:34:55,977 [pool-1-thread-1] RPCClient - Startup took 155 msec
+[INFO ] 2019-11-02T08:34:58,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:34:58,455 [pool-1-thread-1] RPCClient - Startup took 137 msec
+[INFO ] 2019-11-02T08:34:58,765 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:34:58,885 [pool-1-thread-1] RPCClient - Startup took 119 msec
+[INFO ] 2019-11-02T08:35:01,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:35:01,514 [pool-1-thread-1] RPCClient - Startup took 196 msec
+[INFO ] 2019-11-02T08:35:01,784 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:35:01,908 [pool-1-thread-1] RPCClient - Startup took 123 msec
+[INFO ] 2019-11-02T08:35:04,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:35:04,508 [pool-1-thread-1] RPCClient - Startup took 190 msec
+[INFO ] 2019-11-02T08:35:04,808 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:35:04,919 [pool-1-thread-1] RPCClient - Startup took 110 msec
+[INFO ] 2019-11-02T08:35:07,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:35:07,539 [pool-1-thread-1] RPCClient - Startup took 221 msec
+[INFO ] 2019-11-02T08:35:07,838 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:35:07,980 [pool-1-thread-1] RPCClient - Startup took 141 msec
+[INFO ] 2019-11-02T08:35:10,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:35:10,542 [pool-1-thread-1] RPCClient - Startup took 224 msec
+[INFO ] 2019-11-02T08:35:10,842 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:35:11,019 [pool-1-thread-1] RPCClient - Startup took 176 msec
+[INFO ] 2019-11-02T08:35:13,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:35:13,566 [pool-1-thread-1] RPCClient - Startup took 247 msec
+[INFO ] 2019-11-02T08:35:13,933 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:35:14,129 [pool-1-thread-1] RPCClient - Startup took 195 msec
+[INFO ] 2019-11-02T08:35:16,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:35:16,522 [pool-1-thread-1] RPCClient - Startup took 204 msec
+[INFO ] 2019-11-02T08:35:16,801 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:35:16,935 [pool-1-thread-1] RPCClient - Startup took 133 msec
+[INFO ] 2019-11-02T08:35:19,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:35:19,454 [pool-1-thread-1] RPCClient - Startup took 136 msec
+[INFO ] 2019-11-02T08:35:19,780 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:35:19,943 [pool-1-thread-1] RPCClient - Startup took 161 msec
+[INFO ] 2019-11-02T08:35:22,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:35:22,532 [pool-1-thread-1] RPCClient - Startup took 213 msec
+[INFO ] 2019-11-02T08:35:22,991 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:35:23,170 [pool-1-thread-1] RPCClient - Startup took 178 msec
+[INFO ] 2019-11-02T08:35:25,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:35:25,535 [pool-1-thread-1] RPCClient - Startup took 217 msec
+[INFO ] 2019-11-02T08:35:25,813 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:35:25,942 [pool-1-thread-1] RPCClient - Startup took 128 msec
+[INFO ] 2019-11-02T08:35:28,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:35:28,532 [pool-1-thread-1] RPCClient - Startup took 214 msec
+[INFO ] 2019-11-02T08:35:28,810 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:35:28,930 [pool-1-thread-1] RPCClient - Startup took 119 msec
+[INFO ] 2019-11-02T08:35:31,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:35:31,526 [pool-1-thread-1] RPCClient - Startup took 208 msec
+[INFO ] 2019-11-02T08:35:31,792 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:35:31,912 [pool-1-thread-1] RPCClient - Startup took 119 msec
+[INFO ] 2019-11-02T08:35:34,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:35:34,443 [pool-1-thread-1] RPCClient - Startup took 125 msec
+[INFO ] 2019-11-02T08:35:34,710 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:35:34,831 [pool-1-thread-1] RPCClient - Startup took 120 msec
+[INFO ] 2019-11-02T08:35:37,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:35:37,523 [pool-1-thread-1] RPCClient - Startup took 205 msec
+[INFO ] 2019-11-02T08:35:37,789 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:35:37,909 [pool-1-thread-1] RPCClient - Startup took 119 msec
+[INFO ] 2019-11-02T08:35:40,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:35:40,524 [pool-1-thread-1] RPCClient - Startup took 205 msec
+[INFO ] 2019-11-02T08:35:40,791 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:35:40,909 [pool-1-thread-1] RPCClient - Startup took 117 msec
+[INFO ] 2019-11-02T08:35:43,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:35:43,561 [pool-1-thread-1] RPCClient - Startup took 243 msec
+[INFO ] 2019-11-02T08:35:43,861 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:35:43,979 [pool-1-thread-1] RPCClient - Startup took 116 msec
+[INFO ] 2019-11-02T08:35:46,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:35:46,555 [pool-1-thread-1] RPCClient - Startup took 237 msec
+[INFO ] 2019-11-02T08:35:46,845 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:35:46,964 [pool-1-thread-1] RPCClient - Startup took 118 msec
+[INFO ] 2019-11-02T08:35:49,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:35:49,466 [pool-1-thread-1] RPCClient - Startup took 148 msec
+[INFO ] 2019-11-02T08:35:49,769 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:35:49,878 [pool-1-thread-1] RPCClient - Startup took 108 msec
+[INFO ] 2019-11-02T08:35:52,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:35:52,542 [pool-1-thread-1] RPCClient - Startup took 224 msec
+[INFO ] 2019-11-02T08:35:52,821 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:35:52,930 [pool-1-thread-1] RPCClient - Startup took 108 msec
+[INFO ] 2019-11-02T08:35:55,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:35:55,539 [pool-1-thread-1] RPCClient - Startup took 221 msec
+[INFO ] 2019-11-02T08:35:55,815 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:35:55,942 [pool-1-thread-1] RPCClient - Startup took 126 msec
+[INFO ] 2019-11-02T08:35:58,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:35:58,534 [pool-1-thread-1] RPCClient - Startup took 215 msec
+[INFO ] 2019-11-02T08:35:58,811 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:35:58,932 [pool-1-thread-1] RPCClient - Startup took 120 msec
+[INFO ] 2019-11-02T08:36:01,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:36:01,548 [pool-1-thread-1] RPCClient - Startup took 230 msec
+[INFO ] 2019-11-02T08:36:01,987 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:36:02,118 [pool-1-thread-1] RPCClient - Startup took 131 msec
+[INFO ] 2019-11-02T08:36:04,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:36:04,536 [pool-1-thread-1] RPCClient - Startup took 218 msec
+[INFO ] 2019-11-02T08:36:04,846 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:36:05,047 [pool-1-thread-1] RPCClient - Startup took 201 msec
+[INFO ] 2019-11-02T08:36:07,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:36:07,463 [pool-1-thread-1] RPCClient - Startup took 144 msec
+[INFO ] 2019-11-02T08:36:07,741 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:36:07,857 [pool-1-thread-1] RPCClient - Startup took 114 msec
+[INFO ] 2019-11-02T08:36:10,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:36:10,507 [pool-1-thread-1] RPCClient - Startup took 189 msec
+[INFO ] 2019-11-02T08:36:10,789 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:36:10,919 [pool-1-thread-1] RPCClient - Startup took 129 msec
+[INFO ] 2019-11-02T08:36:13,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:36:13,453 [pool-1-thread-1] RPCClient - Startup took 136 msec
+[INFO ] 2019-11-02T08:36:13,912 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:36:14,043 [pool-1-thread-1] RPCClient - Startup took 131 msec
+[INFO ] 2019-11-02T08:36:16,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:36:16,472 [pool-1-thread-1] RPCClient - Startup took 153 msec
+[INFO ] 2019-11-02T08:36:16,802 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:36:16,936 [pool-1-thread-1] RPCClient - Startup took 133 msec
+[INFO ] 2019-11-02T08:36:19,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:36:19,489 [pool-1-thread-1] RPCClient - Startup took 170 msec
+[INFO ] 2019-11-02T08:36:19,847 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:36:19,969 [pool-1-thread-1] RPCClient - Startup took 121 msec
+[INFO ] 2019-11-02T08:36:22,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:36:22,599 [pool-1-thread-1] RPCClient - Startup took 281 msec
+[INFO ] 2019-11-02T08:36:22,985 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:36:23,094 [pool-1-thread-1] RPCClient - Startup took 108 msec
+[INFO ] 2019-11-02T08:36:25,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:36:25,542 [pool-1-thread-1] RPCClient - Startup took 224 msec
+[INFO ] 2019-11-02T08:36:25,832 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:36:25,956 [pool-1-thread-1] RPCClient - Startup took 123 msec
+[INFO ] 2019-11-02T08:36:28,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:36:28,539 [pool-1-thread-1] RPCClient - Startup took 221 msec
+[INFO ] 2019-11-02T08:36:28,829 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:36:28,972 [pool-1-thread-1] RPCClient - Startup took 141 msec
+[INFO ] 2019-11-02T08:36:31,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:36:31,498 [pool-1-thread-1] RPCClient - Startup took 179 msec
+[INFO ] 2019-11-02T08:36:31,776 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:36:31,886 [pool-1-thread-1] RPCClient - Startup took 109 msec
+[INFO ] 2019-11-02T08:36:34,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:36:34,514 [pool-1-thread-1] RPCClient - Startup took 196 msec
+[INFO ] 2019-11-02T08:36:34,779 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:36:34,880 [pool-1-thread-1] RPCClient - Startup took 101 msec
+[INFO ] 2019-11-02T08:36:37,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:36:38,072 [pool-1-thread-1] RPCClient - Startup took 754 msec
+[INFO ] 2019-11-02T08:36:38,318 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:36:38,417 [pool-1-thread-1] RPCClient - Startup took 98 msec
+[INFO ] 2019-11-02T08:36:40,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:36:40,522 [pool-1-thread-1] RPCClient - Startup took 204 msec
+[INFO ] 2019-11-02T08:36:40,767 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:36:40,865 [pool-1-thread-1] RPCClient - Startup took 96 msec
+[INFO ] 2019-11-02T08:36:43,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:36:43,437 [pool-1-thread-1] RPCClient - Startup took 119 msec
+[INFO ] 2019-11-02T08:36:43,705 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:36:43,817 [pool-1-thread-1] RPCClient - Startup took 110 msec
+[INFO ] 2019-11-02T08:36:46,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:36:46,514 [pool-1-thread-1] RPCClient - Startup took 196 msec
+[INFO ] 2019-11-02T08:36:46,747 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:36:46,857 [pool-1-thread-1] RPCClient - Startup took 109 msec
+[INFO ] 2019-11-02T08:36:49,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:36:49,458 [pool-1-thread-1] RPCClient - Startup took 139 msec
+[INFO ] 2019-11-02T08:36:49,737 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:36:49,847 [pool-1-thread-1] RPCClient - Startup took 108 msec
+[INFO ] 2019-11-02T08:36:52,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:36:52,534 [pool-1-thread-1] RPCClient - Startup took 215 msec
+[INFO ] 2019-11-02T08:36:52,765 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:36:52,864 [pool-1-thread-1] RPCClient - Startup took 98 msec
+[INFO ] 2019-11-02T08:36:55,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:36:55,521 [pool-1-thread-1] RPCClient - Startup took 203 msec
+[INFO ] 2019-11-02T08:36:55,758 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:36:55,846 [pool-1-thread-1] RPCClient - Startup took 88 msec
+[INFO ] 2019-11-02T08:36:58,318 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:36:58,431 [pool-1-thread-1] RPCClient - Startup took 112 msec
+[INFO ] 2019-11-02T08:36:58,666 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:36:58,764 [pool-1-thread-1] RPCClient - Startup took 96 msec
+[INFO ] 2019-11-02T08:37:01,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:37:01,528 [pool-1-thread-1] RPCClient - Startup took 209 msec
+[INFO ] 2019-11-02T08:37:01,746 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:37:01,856 [pool-1-thread-1] RPCClient - Startup took 109 msec
+[INFO ] 2019-11-02T08:37:04,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:37:04,532 [pool-1-thread-1] RPCClient - Startup took 214 msec
+[INFO ] 2019-11-02T08:37:04,809 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:37:04,936 [pool-1-thread-1] RPCClient - Startup took 126 msec
+[INFO ] 2019-11-02T08:37:07,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:37:07,522 [pool-1-thread-1] RPCClient - Startup took 204 msec
+[INFO ] 2019-11-02T08:37:07,880 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:37:08,073 [pool-1-thread-1] RPCClient - Startup took 192 msec
+[INFO ] 2019-11-02T08:37:10,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:37:10,449 [pool-1-thread-1] RPCClient - Startup took 131 msec
+[INFO ] 2019-11-02T08:37:10,717 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:37:10,838 [pool-1-thread-1] RPCClient - Startup took 120 msec
+[INFO ] 2019-11-02T08:37:13,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:37:13,561 [pool-1-thread-1] RPCClient - Startup took 243 msec
+[INFO ] 2019-11-02T08:37:13,874 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:37:13,997 [pool-1-thread-1] RPCClient - Startup took 122 msec
+[INFO ] 2019-11-02T08:37:16,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:37:16,437 [pool-1-thread-1] RPCClient - Startup took 119 msec
+[INFO ] 2019-11-02T08:37:16,705 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:37:16,826 [pool-1-thread-1] RPCClient - Startup took 120 msec
+[INFO ] 2019-11-02T08:37:19,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:37:19,480 [pool-1-thread-1] RPCClient - Startup took 162 msec
+[INFO ] 2019-11-02T08:37:19,893 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:37:20,014 [pool-1-thread-1] RPCClient - Startup took 119 msec
+[INFO ] 2019-11-02T08:37:22,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:37:22,517 [pool-1-thread-1] RPCClient - Startup took 199 msec
+[INFO ] 2019-11-02T08:37:22,790 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:37:23,003 [pool-1-thread-1] RPCClient - Startup took 212 msec
+[INFO ] 2019-11-02T08:37:25,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:37:25,513 [pool-1-thread-1] RPCClient - Startup took 195 msec
+[INFO ] 2019-11-02T08:37:25,783 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:37:25,962 [pool-1-thread-1] RPCClient - Startup took 177 msec
+[INFO ] 2019-11-02T08:37:28,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:37:28,525 [pool-1-thread-1] RPCClient - Startup took 206 msec
+[INFO ] 2019-11-02T08:37:28,801 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:37:28,978 [pool-1-thread-1] RPCClient - Startup took 176 msec
+[INFO ] 2019-11-02T08:37:31,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:37:31,532 [pool-1-thread-1] RPCClient - Startup took 213 msec
+[INFO ] 2019-11-02T08:37:31,796 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:37:31,941 [pool-1-thread-1] RPCClient - Startup took 143 msec
+[INFO ] 2019-11-02T08:37:34,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:37:34,536 [pool-1-thread-1] RPCClient - Startup took 218 msec
+[INFO ] 2019-11-02T08:37:34,812 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:37:34,990 [pool-1-thread-1] RPCClient - Startup took 177 msec
+[INFO ] 2019-11-02T08:37:37,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:37:37,562 [pool-1-thread-1] RPCClient - Startup took 244 msec
+[INFO ] 2019-11-02T08:37:38,199 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:37:38,492 [pool-1-thread-1] RPCClient - Startup took 292 msec
+[INFO ] 2019-11-02T08:37:40,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:37:40,418 [pool-1-thread-1] RPCClient - Startup took 100 msec
+[INFO ] 2019-11-02T08:37:40,712 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:37:40,843 [pool-1-thread-1] RPCClient - Startup took 130 msec
+[INFO ] 2019-11-02T08:37:43,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:37:43,559 [pool-1-thread-1] RPCClient - Startup took 241 msec
+[INFO ] 2019-11-02T08:37:44,059 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:37:44,184 [pool-1-thread-1] RPCClient - Startup took 124 msec
+[INFO ] 2019-11-02T08:37:46,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:37:46,507 [pool-1-thread-1] RPCClient - Startup took 189 msec
+[INFO ] 2019-11-02T08:37:46,778 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:37:46,912 [pool-1-thread-1] RPCClient - Startup took 133 msec
+[INFO ] 2019-11-02T08:37:49,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:37:49,487 [pool-1-thread-1] RPCClient - Startup took 169 msec
+[INFO ] 2019-11-02T08:37:49,789 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:37:49,913 [pool-1-thread-1] RPCClient - Startup took 122 msec
+[INFO ] 2019-11-02T08:37:52,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:37:52,525 [pool-1-thread-1] RPCClient - Startup took 207 msec
+[INFO ] 2019-11-02T08:37:52,796 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:37:52,918 [pool-1-thread-1] RPCClient - Startup took 121 msec
+[INFO ] 2019-11-02T08:37:55,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:37:55,451 [pool-1-thread-1] RPCClient - Startup took 133 msec
+[INFO ] 2019-11-02T08:37:55,718 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:37:55,840 [pool-1-thread-1] RPCClient - Startup took 121 msec
+[INFO ] 2019-11-02T08:37:58,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:37:58,507 [pool-1-thread-1] RPCClient - Startup took 189 msec
+[INFO ] 2019-11-02T08:37:58,796 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:37:58,926 [pool-1-thread-1] RPCClient - Startup took 128 msec
+[INFO ] 2019-11-02T08:38:01,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:38:01,514 [pool-1-thread-1] RPCClient - Startup took 195 msec
+[INFO ] 2019-11-02T08:38:01,908 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:38:02,100 [pool-1-thread-1] RPCClient - Startup took 191 msec
+[INFO ] 2019-11-02T08:38:04,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:38:04,515 [pool-1-thread-1] RPCClient - Startup took 197 msec
+[INFO ] 2019-11-02T08:38:04,816 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:38:04,928 [pool-1-thread-1] RPCClient - Startup took 111 msec
+[INFO ] 2019-11-02T08:38:07,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:38:07,461 [pool-1-thread-1] RPCClient - Startup took 143 msec
+[INFO ] 2019-11-02T08:38:07,802 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:38:07,922 [pool-1-thread-1] RPCClient - Startup took 119 msec
+[INFO ] 2019-11-02T08:38:10,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:38:10,451 [pool-1-thread-1] RPCClient - Startup took 132 msec
+[INFO ] 2019-11-02T08:38:10,762 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:38:10,882 [pool-1-thread-1] RPCClient - Startup took 119 msec
+[INFO ] 2019-11-02T08:38:13,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:38:13,548 [pool-1-thread-1] RPCClient - Startup took 230 msec
+[INFO ] 2019-11-02T08:38:13,852 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:38:14,006 [pool-1-thread-1] RPCClient - Startup took 153 msec
+[INFO ] 2019-11-02T08:38:16,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:38:16,490 [pool-1-thread-1] RPCClient - Startup took 171 msec
+[INFO ] 2019-11-02T08:38:16,771 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:38:16,901 [pool-1-thread-1] RPCClient - Startup took 129 msec
+[INFO ] 2019-11-02T08:38:19,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:38:19,470 [pool-1-thread-1] RPCClient - Startup took 152 msec
+[INFO ] 2019-11-02T08:38:19,773 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:38:19,892 [pool-1-thread-1] RPCClient - Startup took 118 msec
+[INFO ] 2019-11-02T08:38:22,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:38:22,466 [pool-1-thread-1] RPCClient - Startup took 147 msec
+[INFO ] 2019-11-02T08:38:22,725 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:38:22,826 [pool-1-thread-1] RPCClient - Startup took 101 msec
+[INFO ] 2019-11-02T08:38:25,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:38:25,526 [pool-1-thread-1] RPCClient - Startup took 208 msec
+[INFO ] 2019-11-02T08:38:25,788 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:38:25,917 [pool-1-thread-1] RPCClient - Startup took 127 msec
+[INFO ] 2019-11-02T08:38:28,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:38:28,529 [pool-1-thread-1] RPCClient - Startup took 211 msec
+[INFO ] 2019-11-02T08:38:28,792 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:38:28,916 [pool-1-thread-1] RPCClient - Startup took 122 msec
+[INFO ] 2019-11-02T08:38:31,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:38:31,491 [pool-1-thread-1] RPCClient - Startup took 172 msec
+[INFO ] 2019-11-02T08:38:31,753 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:38:31,872 [pool-1-thread-1] RPCClient - Startup took 119 msec
+[INFO ] 2019-11-02T08:38:34,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:38:34,545 [pool-1-thread-1] RPCClient - Startup took 226 msec
+[INFO ] 2019-11-02T08:38:34,834 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:38:34,955 [pool-1-thread-1] RPCClient - Startup took 120 msec
+[INFO ] 2019-11-02T08:38:37,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:38:37,543 [pool-1-thread-1] RPCClient - Startup took 225 msec
+[INFO ] 2019-11-02T08:38:37,831 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:38:37,951 [pool-1-thread-1] RPCClient - Startup took 118 msec
+[INFO ] 2019-11-02T08:38:40,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:38:40,509 [pool-1-thread-1] RPCClient - Startup took 191 msec
+[INFO ] 2019-11-02T08:38:40,762 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:38:40,863 [pool-1-thread-1] RPCClient - Startup took 101 msec
+[INFO ] 2019-11-02T08:38:43,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:38:43,516 [pool-1-thread-1] RPCClient - Startup took 198 msec
+[INFO ] 2019-11-02T08:38:43,830 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:38:44,010 [pool-1-thread-1] RPCClient - Startup took 179 msec
+[INFO ] 2019-11-02T08:38:46,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:38:46,534 [pool-1-thread-1] RPCClient - Startup took 216 msec
+[INFO ] 2019-11-02T08:38:46,801 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:38:46,922 [pool-1-thread-1] RPCClient - Startup took 120 msec
+[INFO ] 2019-11-02T08:38:49,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:38:49,491 [pool-1-thread-1] RPCClient - Startup took 173 msec
+[INFO ] 2019-11-02T08:38:49,897 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:38:50,013 [pool-1-thread-1] RPCClient - Startup took 115 msec
+[INFO ] 2019-11-02T08:38:52,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:38:52,500 [pool-1-thread-1] RPCClient - Startup took 182 msec
+[INFO ] 2019-11-02T08:38:52,771 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:38:52,885 [pool-1-thread-1] RPCClient - Startup took 113 msec
+[INFO ] 2019-11-02T08:38:55,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:38:55,530 [pool-1-thread-1] RPCClient - Startup took 211 msec
+[INFO ] 2019-11-02T08:38:55,797 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:38:55,965 [pool-1-thread-1] RPCClient - Startup took 166 msec
+[INFO ] 2019-11-02T08:38:58,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:38:58,530 [pool-1-thread-1] RPCClient - Startup took 212 msec
+[INFO ] 2019-11-02T08:38:58,805 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:38:58,937 [pool-1-thread-1] RPCClient - Startup took 132 msec
+[INFO ] 2019-11-02T08:39:01,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:39:01,551 [pool-1-thread-1] RPCClient - Startup took 234 msec
+[INFO ] 2019-11-02T08:39:01,823 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:39:01,944 [pool-1-thread-1] RPCClient - Startup took 120 msec
+[INFO ] 2019-11-02T08:39:04,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:39:04,539 [pool-1-thread-1] RPCClient - Startup took 220 msec
+[INFO ] 2019-11-02T08:39:04,893 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:39:05,021 [pool-1-thread-1] RPCClient - Startup took 126 msec
+[INFO ] 2019-11-02T08:39:07,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:39:07,507 [pool-1-thread-1] RPCClient - Startup took 189 msec
+[INFO ] 2019-11-02T08:39:07,750 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:39:07,870 [pool-1-thread-1] RPCClient - Startup took 119 msec
+[INFO ] 2019-11-02T08:39:10,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:39:10,509 [pool-1-thread-1] RPCClient - Startup took 191 msec
+[INFO ] 2019-11-02T08:39:10,732 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:39:10,835 [pool-1-thread-1] RPCClient - Startup took 102 msec
+[INFO ] 2019-11-02T08:39:13,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:39:13,561 [pool-1-thread-1] RPCClient - Startup took 243 msec
+[INFO ] 2019-11-02T08:39:13,821 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:39:13,962 [pool-1-thread-1] RPCClient - Startup took 139 msec
+[INFO ] 2019-11-02T08:39:16,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:39:16,520 [pool-1-thread-1] RPCClient - Startup took 201 msec
+[INFO ] 2019-11-02T08:39:16,751 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:39:16,850 [pool-1-thread-1] RPCClient - Startup took 98 msec
+[INFO ] 2019-11-02T08:39:19,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:39:19,467 [pool-1-thread-1] RPCClient - Startup took 149 msec
+[INFO ] 2019-11-02T08:39:19,734 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:39:19,836 [pool-1-thread-1] RPCClient - Startup took 101 msec
+[INFO ] 2019-11-02T08:39:22,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:39:22,542 [pool-1-thread-1] RPCClient - Startup took 223 msec
+[INFO ] 2019-11-02T08:39:22,847 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:39:22,967 [pool-1-thread-1] RPCClient - Startup took 119 msec
+[INFO ] 2019-11-02T08:39:25,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:39:25,724 [pool-1-thread-1] RPCClient - Startup took 406 msec
+[INFO ] 2019-11-02T08:39:26,007 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:39:26,117 [pool-1-thread-1] RPCClient - Startup took 109 msec
+[INFO ] 2019-11-02T08:39:28,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:39:28,520 [pool-1-thread-1] RPCClient - Startup took 201 msec
+[INFO ] 2019-11-02T08:39:28,764 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:39:28,921 [pool-1-thread-1] RPCClient - Startup took 156 msec
+[INFO ] 2019-11-02T08:39:31,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:39:31,526 [pool-1-thread-1] RPCClient - Startup took 208 msec
+[INFO ] 2019-11-02T08:39:31,767 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:39:31,870 [pool-1-thread-1] RPCClient - Startup took 103 msec
+[INFO ] 2019-11-02T08:39:34,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:39:34,414 [pool-1-thread-1] RPCClient - Startup took 96 msec
+[INFO ] 2019-11-02T08:39:34,645 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:39:34,744 [pool-1-thread-1] RPCClient - Startup took 98 msec
+[INFO ] 2019-11-02T08:39:37,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:39:37,432 [pool-1-thread-1] RPCClient - Startup took 114 msec
+[INFO ] 2019-11-02T08:39:37,721 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:39:37,831 [pool-1-thread-1] RPCClient - Startup took 109 msec
+[INFO ] 2019-11-02T08:39:40,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:39:40,514 [pool-1-thread-1] RPCClient - Startup took 196 msec
+[INFO ] 2019-11-02T08:39:40,736 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:39:40,834 [pool-1-thread-1] RPCClient - Startup took 97 msec
+[INFO ] 2019-11-02T08:39:43,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:39:43,535 [pool-1-thread-1] RPCClient - Startup took 216 msec
+[INFO ] 2019-11-02T08:39:43,794 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:39:43,903 [pool-1-thread-1] RPCClient - Startup took 108 msec
+[INFO ] 2019-11-02T08:39:46,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:39:46,525 [pool-1-thread-1] RPCClient - Startup took 206 msec
+[INFO ] 2019-11-02T08:39:46,768 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:39:46,891 [pool-1-thread-1] RPCClient - Startup took 121 msec
+[INFO ] 2019-11-02T08:39:49,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:39:49,468 [pool-1-thread-1] RPCClient - Startup took 150 msec
+[INFO ] 2019-11-02T08:39:49,725 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:39:49,872 [pool-1-thread-1] RPCClient - Startup took 146 msec
+[INFO ] 2019-11-02T08:39:52,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:39:52,523 [pool-1-thread-1] RPCClient - Startup took 205 msec
+[INFO ] 2019-11-02T08:39:52,883 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:39:53,016 [pool-1-thread-1] RPCClient - Startup took 131 msec
+[INFO ] 2019-11-02T08:39:55,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:39:55,520 [pool-1-thread-1] RPCClient - Startup took 202 msec
+[INFO ] 2019-11-02T08:39:55,787 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:39:55,906 [pool-1-thread-1] RPCClient - Startup took 118 msec
+[INFO ] 2019-11-02T08:39:58,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:39:58,548 [pool-1-thread-1] RPCClient - Startup took 230 msec
+[INFO ] 2019-11-02T08:39:58,829 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:39:58,960 [pool-1-thread-1] RPCClient - Startup took 130 msec
+[INFO ] 2019-11-02T08:40:01,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:40:01,535 [pool-1-thread-1] RPCClient - Startup took 216 msec
+[INFO ] 2019-11-02T08:40:01,799 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:40:01,917 [pool-1-thread-1] RPCClient - Startup took 116 msec
+[INFO ] 2019-11-02T08:40:04,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:40:04,463 [pool-1-thread-1] RPCClient - Startup took 145 msec
+[INFO ] 2019-11-02T08:40:04,753 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:40:04,884 [pool-1-thread-1] RPCClient - Startup took 130 msec
+[INFO ] 2019-11-02T08:40:07,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:40:07,454 [pool-1-thread-1] RPCClient - Startup took 136 msec
+[INFO ] 2019-11-02T08:40:07,731 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:40:07,930 [pool-1-thread-1] RPCClient - Startup took 198 msec
+[INFO ] 2019-11-02T08:40:10,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:40:10,522 [pool-1-thread-1] RPCClient - Startup took 204 msec
+[INFO ] 2019-11-02T08:40:10,833 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:40:10,963 [pool-1-thread-1] RPCClient - Startup took 129 msec
+[INFO ] 2019-11-02T08:40:13,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:40:13,565 [pool-1-thread-1] RPCClient - Startup took 247 msec
+[INFO ] 2019-11-02T08:40:14,123 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:40:14,276 [pool-1-thread-1] RPCClient - Startup took 152 msec
+[INFO ] 2019-11-02T08:40:16,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:40:16,508 [pool-1-thread-1] RPCClient - Startup took 190 msec
+[INFO ] 2019-11-02T08:40:16,765 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:40:16,912 [pool-1-thread-1] RPCClient - Startup took 146 msec
+[INFO ] 2019-11-02T08:40:19,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:40:19,521 [pool-1-thread-1] RPCClient - Startup took 203 msec
+[INFO ] 2019-11-02T08:40:19,855 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:40:19,975 [pool-1-thread-1] RPCClient - Startup took 118 msec
+[INFO ] 2019-11-02T08:40:22,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:40:22,532 [pool-1-thread-1] RPCClient - Startup took 213 msec
+[INFO ] 2019-11-02T08:40:22,841 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:40:22,974 [pool-1-thread-1] RPCClient - Startup took 132 msec
+[INFO ] 2019-11-02T08:40:25,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:40:25,536 [pool-1-thread-1] RPCClient - Startup took 219 msec
+[INFO ] 2019-11-02T08:40:25,838 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:40:25,967 [pool-1-thread-1] RPCClient - Startup took 128 msec
+[INFO ] 2019-11-02T08:40:28,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:40:28,544 [pool-1-thread-1] RPCClient - Startup took 226 msec
+[INFO ] 2019-11-02T08:40:28,905 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:40:29,258 [pool-1-thread-1] RPCClient - Startup took 352 msec
+[INFO ] 2019-11-02T08:40:31,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:40:31,522 [pool-1-thread-1] RPCClient - Startup took 204 msec
+[INFO ] 2019-11-02T08:40:31,789 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:40:31,911 [pool-1-thread-1] RPCClient - Startup took 120 msec
+[INFO ] 2019-11-02T08:40:34,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:40:34,539 [pool-1-thread-1] RPCClient - Startup took 221 msec
+[INFO ] 2019-11-02T08:40:34,816 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:40:34,960 [pool-1-thread-1] RPCClient - Startup took 143 msec
+[INFO ] 2019-11-02T08:40:37,318 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:40:37,546 [pool-1-thread-1] RPCClient - Startup took 226 msec
+[INFO ] 2019-11-02T08:40:37,802 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:40:37,938 [pool-1-thread-1] RPCClient - Startup took 135 msec
+[INFO ] 2019-11-02T08:40:40,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:40:40,527 [pool-1-thread-1] RPCClient - Startup took 208 msec
+[INFO ] 2019-11-02T08:40:40,794 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:40:40,897 [pool-1-thread-1] RPCClient - Startup took 102 msec
+[INFO ] 2019-11-02T08:40:43,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:40:43,596 [pool-1-thread-1] RPCClient - Startup took 278 msec
+[INFO ] 2019-11-02T08:40:43,902 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:40:44,097 [pool-1-thread-1] RPCClient - Startup took 194 msec
+[INFO ] 2019-11-02T08:40:46,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:40:46,527 [pool-1-thread-1] RPCClient - Startup took 209 msec
+[INFO ] 2019-11-02T08:40:46,988 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:40:47,113 [pool-1-thread-1] RPCClient - Startup took 124 msec
+[INFO ] 2019-11-02T08:40:49,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:40:49,495 [pool-1-thread-1] RPCClient - Startup took 177 msec
+[INFO ] 2019-11-02T08:40:49,917 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:40:50,028 [pool-1-thread-1] RPCClient - Startup took 111 msec
+[INFO ] 2019-11-02T08:40:52,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:40:52,434 [pool-1-thread-1] RPCClient - Startup took 116 msec
+[INFO ] 2019-11-02T08:40:52,690 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:40:52,801 [pool-1-thread-1] RPCClient - Startup took 110 msec
+[INFO ] 2019-11-02T08:40:55,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:40:55,536 [pool-1-thread-1] RPCClient - Startup took 218 msec
+[INFO ] 2019-11-02T08:40:55,828 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:40:55,949 [pool-1-thread-1] RPCClient - Startup took 120 msec
+[INFO ] 2019-11-02T08:40:58,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:40:58,478 [pool-1-thread-1] RPCClient - Startup took 160 msec
+[INFO ] 2019-11-02T08:40:58,762 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:40:58,864 [pool-1-thread-1] RPCClient - Startup took 101 msec
+[INFO ] 2019-11-02T08:41:01,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:41:01,466 [pool-1-thread-1] RPCClient - Startup took 148 msec
+[INFO ] 2019-11-02T08:41:01,734 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:41:01,845 [pool-1-thread-1] RPCClient - Startup took 110 msec
+[INFO ] 2019-11-02T08:41:04,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:41:04,483 [pool-1-thread-1] RPCClient - Startup took 165 msec
+[INFO ] 2019-11-02T08:41:04,749 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:41:04,871 [pool-1-thread-1] RPCClient - Startup took 121 msec
+[INFO ] 2019-11-02T08:41:07,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:41:07,549 [pool-1-thread-1] RPCClient - Startup took 231 msec
+[INFO ] 2019-11-02T08:41:07,824 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:41:07,969 [pool-1-thread-1] RPCClient - Startup took 144 msec
+[INFO ] 2019-11-02T08:41:10,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:41:10,791 [pool-1-thread-1] RPCClient - Startup took 473 msec
+[INFO ] 2019-11-02T08:41:11,110 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:41:11,252 [pool-1-thread-1] RPCClient - Startup took 140 msec
+[INFO ] 2019-11-02T08:41:13,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:41:13,577 [pool-1-thread-1] RPCClient - Startup took 258 msec
+[INFO ] 2019-11-02T08:41:13,923 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:41:14,051 [pool-1-thread-1] RPCClient - Startup took 127 msec
+[INFO ] 2019-11-02T08:41:16,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:41:16,541 [pool-1-thread-1] RPCClient - Startup took 223 msec
+[INFO ] 2019-11-02T08:41:16,853 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:41:16,982 [pool-1-thread-1] RPCClient - Startup took 128 msec
+[INFO ] 2019-11-02T08:41:19,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:41:19,521 [pool-1-thread-1] RPCClient - Startup took 203 msec
+[INFO ] 2019-11-02T08:41:19,877 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:41:20,014 [pool-1-thread-1] RPCClient - Startup took 136 msec
+[INFO ] 2019-11-02T08:41:22,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:41:22,537 [pool-1-thread-1] RPCClient - Startup took 218 msec
+[INFO ] 2019-11-02T08:41:22,829 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:41:22,960 [pool-1-thread-1] RPCClient - Startup took 130 msec
+[INFO ] 2019-11-02T08:41:25,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:41:25,532 [pool-1-thread-1] RPCClient - Startup took 215 msec
+[INFO ] 2019-11-02T08:41:25,822 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:41:25,953 [pool-1-thread-1] RPCClient - Startup took 130 msec
+[INFO ] 2019-11-02T08:41:28,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:41:28,540 [pool-1-thread-1] RPCClient - Startup took 222 msec
+[INFO ] 2019-11-02T08:41:28,841 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:41:28,974 [pool-1-thread-1] RPCClient - Startup took 132 msec
+[INFO ] 2019-11-02T08:41:31,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:41:31,698 [pool-1-thread-1] RPCClient - Startup took 379 msec
+[INFO ] 2019-11-02T08:41:32,163 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:41:32,363 [pool-1-thread-1] RPCClient - Startup took 198 msec
+[INFO ] 2019-11-02T08:41:34,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:41:34,552 [pool-1-thread-1] RPCClient - Startup took 234 msec
+[INFO ] 2019-11-02T08:41:34,852 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:41:35,012 [pool-1-thread-1] RPCClient - Startup took 159 msec
+[INFO ] 2019-11-02T08:41:37,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:41:37,536 [pool-1-thread-1] RPCClient - Startup took 218 msec
+[INFO ] 2019-11-02T08:41:37,838 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:41:37,998 [pool-1-thread-1] RPCClient - Startup took 159 msec
+[INFO ] 2019-11-02T08:41:40,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:41:40,509 [pool-1-thread-1] RPCClient - Startup took 191 msec
+[INFO ] 2019-11-02T08:41:40,797 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:41:40,914 [pool-1-thread-1] RPCClient - Startup took 116 msec
+[INFO ] 2019-11-02T08:41:43,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:41:43,606 [pool-1-thread-1] RPCClient - Startup took 288 msec
+[INFO ] 2019-11-02T08:41:43,877 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:41:43,996 [pool-1-thread-1] RPCClient - Startup took 118 msec
+[INFO ] 2019-11-02T08:41:46,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:41:46,519 [pool-1-thread-1] RPCClient - Startup took 201 msec
+[INFO ] 2019-11-02T08:41:46,751 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:41:46,882 [pool-1-thread-1] RPCClient - Startup took 130 msec
+[INFO ] 2019-11-02T08:41:49,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:41:49,511 [pool-1-thread-1] RPCClient - Startup took 192 msec
+[INFO ] 2019-11-02T08:41:49,854 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:41:49,991 [pool-1-thread-1] RPCClient - Startup took 136 msec
+[INFO ] 2019-11-02T08:41:52,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:41:52,551 [pool-1-thread-1] RPCClient - Startup took 233 msec
+[INFO ] 2019-11-02T08:41:52,827 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:41:52,960 [pool-1-thread-1] RPCClient - Startup took 133 msec
+[INFO ] 2019-11-02T08:41:55,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:41:55,540 [pool-1-thread-1] RPCClient - Startup took 222 msec
+[INFO ] 2019-11-02T08:41:55,808 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:41:55,954 [pool-1-thread-1] RPCClient - Startup took 145 msec
+[INFO ] 2019-11-02T08:41:58,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:41:58,535 [pool-1-thread-1] RPCClient - Startup took 217 msec
+[INFO ] 2019-11-02T08:41:58,816 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:41:58,934 [pool-1-thread-1] RPCClient - Startup took 116 msec
+[INFO ] 2019-11-02T08:42:01,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:42:01,533 [pool-1-thread-1] RPCClient - Startup took 215 msec
+[INFO ] 2019-11-02T08:42:01,887 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:42:02,010 [pool-1-thread-1] RPCClient - Startup took 121 msec
+[INFO ] 2019-11-02T08:42:04,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:42:04,463 [pool-1-thread-1] RPCClient - Startup took 144 msec
+[INFO ] 2019-11-02T08:42:04,749 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:42:04,868 [pool-1-thread-1] RPCClient - Startup took 119 msec
+[INFO ] 2019-11-02T08:42:07,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:42:07,515 [pool-1-thread-1] RPCClient - Startup took 197 msec
+[INFO ] 2019-11-02T08:42:07,791 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:42:07,921 [pool-1-thread-1] RPCClient - Startup took 130 msec
+[INFO ] 2019-11-02T08:42:10,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:42:10,559 [pool-1-thread-1] RPCClient - Startup took 240 msec
+[INFO ] 2019-11-02T08:42:10,831 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:42:10,973 [pool-1-thread-1] RPCClient - Startup took 141 msec
+[INFO ] 2019-11-02T08:42:13,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:42:13,509 [pool-1-thread-1] RPCClient - Startup took 191 msec
+[INFO ] 2019-11-02T08:42:13,822 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:42:13,955 [pool-1-thread-1] RPCClient - Startup took 131 msec
+[INFO ] 2019-11-02T08:42:16,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:42:16,541 [pool-1-thread-1] RPCClient - Startup took 223 msec
+[INFO ] 2019-11-02T08:42:16,902 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:42:17,020 [pool-1-thread-1] RPCClient - Startup took 117 msec
+[INFO ] 2019-11-02T08:42:19,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:42:19,523 [pool-1-thread-1] RPCClient - Startup took 205 msec
+[INFO ] 2019-11-02T08:42:19,849 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:42:19,979 [pool-1-thread-1] RPCClient - Startup took 129 msec
+[INFO ] 2019-11-02T08:42:22,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:42:22,568 [pool-1-thread-1] RPCClient - Startup took 249 msec
+[INFO ] 2019-11-02T08:42:22,857 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:42:22,991 [pool-1-thread-1] RPCClient - Startup took 133 msec
+[INFO ] 2019-11-02T08:42:25,317 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10006
+[INFO ] 2019-11-02T08:42:25,515 [pool-1-thread-1] RPCClient - Startup took 197 msec
+[INFO ] 2019-11-02T08:42:26,239 [pool-1-thread-1] ReconnectingCordaRPCOps - Connecting to: localhost:10009
+[INFO ] 2019-11-02T08:42:26,493 [pool-1-thread-1] RPCClient - Startup took 253 msec

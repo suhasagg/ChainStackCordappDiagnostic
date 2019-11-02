@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/corda-node-diagnosticsv1.iml" filepath="$PROJECT_DIR$/.idea/modules/corda-node-diagnosticsv1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clients/corda-node-diagnosticsv1.clients.iml" filepath="$PROJECT_DIR$/.idea/modules/clients/corda-node-diagnosticsv1.clients.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clients/corda-node-diagnosticsv1.clients.main.iml" filepath="$PROJECT_DIR$/.idea/modules/clients/corda-node-diagnosticsv1.clients.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clients/corda-node-diagnosticsv1.clients.test.iml" filepath="$PROJECT_DIR$/.idea/modules/clients/corda-node-diagnosticsv1.clients.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cordapp/corda-node-diagnosticsv1.cordapp.iml" filepath="$PROJECT_DIR$/.idea/modules/cordapp/corda-node-diagnosticsv1.cordapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cordapp-contracts-states/corda-node-diagnosticsv1.cordapp-contracts-states.iml" filepath="$PROJECT_DIR$/.idea/modules/cordapp-contracts-states/corda-node-diagnosticsv1.cordapp-contracts-states.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cordapp-contracts-states/corda-node-diagnosticsv1.cordapp-contracts-states.main.iml" filepath="$PROJECT_DIR$/.idea/modules/cordapp-contracts-states/corda-node-diagnosticsv1.cordapp-contracts-states.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cordapp-contracts-states/corda-node-diagnosticsv1.cordapp-contracts-states.test.iml" filepath="$PROJECT_DIR$/.idea/modules/cordapp-contracts-states/corda-node-diagnosticsv1.cordapp-contracts-states.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cordapp/corda-node-diagnosticsv1.cordapp.integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/cordapp/corda-node-diagnosticsv1.cordapp.integrationTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cordapp/corda-node-diagnosticsv1.cordapp.main.iml" filepath="$PROJECT_DIR$/.idea/modules/cordapp/corda-node-diagnosticsv1.cordapp.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cordapp/corda-node-diagnosticsv1.cordapp.test.iml" filepath="$PROJECT_DIR$/.idea/modules/cordapp/corda-node-diagnosticsv1.cordapp.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/corda-node-diagnosticsv1.main.iml" filepath="$PROJECT_DIR$/.idea/modules/corda-node-diagnosticsv1.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/corda-node-diagnosticsv1.test.iml" filepath="$PROJECT_DIR$/.idea/modules/corda-node-diagnosticsv1.test.iml" />
+    </modules>
+  </component>
+</project>

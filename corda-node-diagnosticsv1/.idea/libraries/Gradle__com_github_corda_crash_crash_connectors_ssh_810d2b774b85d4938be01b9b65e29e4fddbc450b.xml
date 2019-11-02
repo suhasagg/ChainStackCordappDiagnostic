@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.corda.crash:crash.connectors.ssh:810d2b774b85d4938be01b9b65e29e4fddbc450b">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.corda.crash/crash.connectors.ssh/810d2b774b85d4938be01b9b65e29e4fddbc450b/c52eddf8ea0b91a7fe4f743596c1751f14255472/crash.connectors.ssh-810d2b774b85d4938be01b9b65e29e4fddbc450b.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.corda.crash/crash.connectors.ssh/810d2b774b85d4938be01b9b65e29e4fddbc450b/33e915657b0553ae61c9a3e9cf3962dff8326445/crash.connectors.ssh-810d2b774b85d4938be01b9b65e29e4fddbc450b-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.corda.crash/crash.connectors.ssh/810d2b774b85d4938be01b9b65e29e4fddbc450b/dfddf84bf7eeaeea8cae78a3e79dcb4f6a2573a4/crash.connectors.ssh-810d2b774b85d4938be01b9b65e29e4fddbc450b-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

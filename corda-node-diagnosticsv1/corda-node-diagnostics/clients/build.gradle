@@ -1,0 +1,66 @@
+apply plugin: 'java'
+apply plugin: 'org.springframework.boot'
+
+ext {
+    corda_release_group = 'net.corda'
+    corda_release_version = '4.3-RC02'
+    corda_gradle_plugins_version = '5.4.1'
+    corda_gradle_plugins_version1 = '4.0.45'
+}
+
+sourceSets {
+    main {
+        resources {
+            srcDir rootProject.file("config/dev")
+        }
+    }
+}
+
+dependencies {
+
+    compile "net.corda.plugins:cordapp:5.0.5"
+    compile "net.corda.plugins:cordformation:5.0.5"
+    compile "org.springframework.boot:spring-boot-gradle-plugin:$spring_boot_gradle_plugin_version"
+
+    // Corda dependencies.
+    compile "$corda_release_group:corda-rpc:$corda_release_version"
+
+    // CorDapp dependencies.
+    compile project(":cordapp-contracts-states")
+    compile project(":cordapp")
+
+    compile("org.springframework.boot:spring-boot-starter-websocket:$spring_boot_version") {
+        exclude group: "org.springframework.boot", module: "spring-boot-starter-logging"
+    }
+
+    compile group: 'log4j', name: 'log4j', version: '1.2.17'
+    compile group: 'commons-configuration', name: 'commons-configuration', version: '1.6'
+    compile "org.apache.logging.log4j:log4j-slf4j-impl:${log4j_version}"
+    compile "org.apache.logging.log4j:log4j-web:${log4j_version}"
+    compile "org.slf4j:jul-to-slf4j:$slf4j_version"
+    compile "org.elasticsearch.client:transport:6.4.2"
+    compile 'org.elasticsearch.client:elasticsearch-rest-high-level-client:6.4.2'
+    testCompile "$corda_release_group:corda-node-driver:$corda_release_version"
+    testCompile "$corda_release_group:corda-test-utils:$corda_release_version"
+
+}
+
+tasks.withType(JavaCompile) {
+    options.compilerArgs << "-parameters" // Required by Corda's serialisation framework.
+}
+
+springBoot {
+    mainClassName = "com.nodediagnostic.webserver.Server"
+}
+
+task runNodeDiagnosticClient(type: JavaExec) {
+    classpath = sourceSets.main.runtimeClasspath
+    main = 'com.nodediagnostic.Client'
+    args 'localhost:10006', 'bluefrog', 'test'
+}
+
+task runNodeDiagnosticServer(type: JavaExec) {
+    classpath = sourceSets.main.runtimeClasspath
+    main = 'com.nodediagnostic.webserver.Server'
+    args '--server.port=10050', '--config.rpc.host=localhost', '--config.rpc.port=10006', '--config.rpc.username=bluefrog', '--config.rpc.password=test'
+}

@@ -1,0 +1,314 @@
+[INFO ] 2019-11-02T07:55:42,514Z [driver-pool-thread-0] network.NodeInfoFilesCopier. - Now watching: /home/suhas/Downloads/corda-node-diagnosticsv1/corda-node-diagnostics/clients/build/node-driver/20191102-075539.920/Notary {}
+[INFO ] 2019-11-02T07:55:42,784Z [driver-pool-thread-0] internal.DriverDSLImpl. - Starting out-of-process Node Notary, debug port is 10479 {}
+[INFO ] 2019-11-02T07:55:57,770Z [driver-pool-thread-1] internal.RPCClient. - Failed Startup took 383 msec {}
+[INFO ] 2019-11-02T07:55:57,770Z [driver-pool-thread-1] internal.DriverDSLImpl. - Exception while connecting to RPC, retrying to connect at localhost:10476 {}
+net.corda.client.rpc.RPCException: Cannot connect to server(s). Tried with all available servers.
+	at net.corda.client.rpc.internal.RPCClientProxyHandler.start(RPCClientProxyHandler.kt:232) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.internal.RPCClient$start$1.invoke(RPCClient.kt:93) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.internal.RPCClient$start$1.invoke(RPCClient.kt:32) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.core.internal.InternalUtils.logElapsedTime(InternalUtils.kt:197) ~[corda-core-4.3-RC02.jar:?]
+	at net.corda.core.internal.InternalUtils.logElapsedTime(InternalUtils.kt:187) ~[corda-core-4.3-RC02.jar:?]
+	at net.corda.client.rpc.internal.RPCClient.start(RPCClient.kt:72) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.CordaRPCClient.start(CordaRPCClient.kt:561) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.CordaRPCClient.start(CordaRPCClient.kt:517) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.CordaRPCClient.start(CordaRPCClient.kt:471) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.CordaRPCClient.start$default(CordaRPCClient.kt:469) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.testing.node.internal.DriverDSLImpl$establishRpc$connectionFuture$1.invoke(DriverDSLImpl.kt:164) ~[corda-node-driver-4.3-RC02.jar:?]
+	at net.corda.testing.node.internal.DriverDSLImpl$establishRpc$connectionFuture$1.invoke(DriverDSLImpl.kt:78) ~[corda-node-driver-4.3-RC02.jar:?]
+	at net.corda.testing.node.internal.InternalTestUtilsKt$poll$task$1.run(InternalTestUtils.kt:206) ~[corda-node-driver-4.3-RC02.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_222]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_222]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) ~[?:1.8.0_222]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[?:1.8.0_222]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) ~[?:1.8.0_222]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) ~[?:1.8.0_222]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_222]
+Caused by: org.apache.activemq.artemis.api.core.ActiveMQNotConnectedException: AMQ119007: Cannot connect to server(s). Tried with all available servers.
+	at org.apache.activemq.artemis.core.client.impl.ServerLocatorImpl.createSessionFactory(ServerLocatorImpl.java:797) ~[artemis-core-client-2.6.2.jar:2.6.2]
+	at net.corda.client.rpc.internal.RPCClientProxyHandler.start(RPCClientProxyHandler.kt:230) ~[corda-rpc-4.3-RC02.jar:?]
+	... 19 more
+[INFO ] 2019-11-02T07:55:58,277Z [driver-pool-thread-1] internal.RPCClient. - Failed Startup took 6 msec {}
+[INFO ] 2019-11-02T07:55:58,277Z [driver-pool-thread-1] internal.DriverDSLImpl. - Exception while connecting to RPC, retrying to connect at localhost:10476 {}
+net.corda.client.rpc.RPCException: Cannot connect to server(s). Tried with all available servers.
+	at net.corda.client.rpc.internal.RPCClientProxyHandler.start(RPCClientProxyHandler.kt:232) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.internal.RPCClient$start$1.invoke(RPCClient.kt:93) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.internal.RPCClient$start$1.invoke(RPCClient.kt:32) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.core.internal.InternalUtils.logElapsedTime(InternalUtils.kt:197) ~[corda-core-4.3-RC02.jar:?]
+	at net.corda.core.internal.InternalUtils.logElapsedTime(InternalUtils.kt:187) ~[corda-core-4.3-RC02.jar:?]
+	at net.corda.client.rpc.internal.RPCClient.start(RPCClient.kt:72) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.CordaRPCClient.start(CordaRPCClient.kt:561) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.CordaRPCClient.start(CordaRPCClient.kt:517) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.CordaRPCClient.start(CordaRPCClient.kt:471) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.CordaRPCClient.start$default(CordaRPCClient.kt:469) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.testing.node.internal.DriverDSLImpl$establishRpc$connectionFuture$1.invoke(DriverDSLImpl.kt:164) ~[corda-node-driver-4.3-RC02.jar:?]
+	at net.corda.testing.node.internal.DriverDSLImpl$establishRpc$connectionFuture$1.invoke(DriverDSLImpl.kt:78) ~[corda-node-driver-4.3-RC02.jar:?]
+	at net.corda.testing.node.internal.InternalTestUtilsKt$poll$task$1.run(InternalTestUtils.kt:206) ~[corda-node-driver-4.3-RC02.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_222]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_222]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) ~[?:1.8.0_222]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[?:1.8.0_222]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) ~[?:1.8.0_222]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) ~[?:1.8.0_222]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_222]
+Caused by: org.apache.activemq.artemis.api.core.ActiveMQNotConnectedException: AMQ119007: Cannot connect to server(s). Tried with all available servers.
+	at org.apache.activemq.artemis.core.client.impl.ServerLocatorImpl.createSessionFactory(ServerLocatorImpl.java:797) ~[artemis-core-client-2.6.2.jar:2.6.2]
+	at net.corda.client.rpc.internal.RPCClientProxyHandler.start(RPCClientProxyHandler.kt:230) ~[corda-rpc-4.3-RC02.jar:?]
+	... 19 more
+[INFO ] 2019-11-02T07:55:58,784Z [driver-pool-thread-1] internal.RPCClient. - Failed Startup took 6 msec {}
+[INFO ] 2019-11-02T07:55:58,784Z [driver-pool-thread-1] internal.DriverDSLImpl. - Exception while connecting to RPC, retrying to connect at localhost:10476 {}
+net.corda.client.rpc.RPCException: Cannot connect to server(s). Tried with all available servers.
+	at net.corda.client.rpc.internal.RPCClientProxyHandler.start(RPCClientProxyHandler.kt:232) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.internal.RPCClient$start$1.invoke(RPCClient.kt:93) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.internal.RPCClient$start$1.invoke(RPCClient.kt:32) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.core.internal.InternalUtils.logElapsedTime(InternalUtils.kt:197) ~[corda-core-4.3-RC02.jar:?]
+	at net.corda.core.internal.InternalUtils.logElapsedTime(InternalUtils.kt:187) ~[corda-core-4.3-RC02.jar:?]
+	at net.corda.client.rpc.internal.RPCClient.start(RPCClient.kt:72) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.CordaRPCClient.start(CordaRPCClient.kt:561) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.CordaRPCClient.start(CordaRPCClient.kt:517) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.CordaRPCClient.start(CordaRPCClient.kt:471) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.CordaRPCClient.start$default(CordaRPCClient.kt:469) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.testing.node.internal.DriverDSLImpl$establishRpc$connectionFuture$1.invoke(DriverDSLImpl.kt:164) ~[corda-node-driver-4.3-RC02.jar:?]
+	at net.corda.testing.node.internal.DriverDSLImpl$establishRpc$connectionFuture$1.invoke(DriverDSLImpl.kt:78) ~[corda-node-driver-4.3-RC02.jar:?]
+	at net.corda.testing.node.internal.InternalTestUtilsKt$poll$task$1.run(InternalTestUtils.kt:206) ~[corda-node-driver-4.3-RC02.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_222]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_222]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) ~[?:1.8.0_222]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[?:1.8.0_222]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) ~[?:1.8.0_222]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) ~[?:1.8.0_222]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_222]
+Caused by: org.apache.activemq.artemis.api.core.ActiveMQNotConnectedException: AMQ119007: Cannot connect to server(s). Tried with all available servers.
+	at org.apache.activemq.artemis.core.client.impl.ServerLocatorImpl.createSessionFactory(ServerLocatorImpl.java:797) ~[artemis-core-client-2.6.2.jar:2.6.2]
+	at net.corda.client.rpc.internal.RPCClientProxyHandler.start(RPCClientProxyHandler.kt:230) ~[corda-rpc-4.3-RC02.jar:?]
+	... 19 more
+[INFO ] 2019-11-02T07:55:59,291Z [driver-pool-thread-1] internal.RPCClient. - Failed Startup took 5 msec {}
+[INFO ] 2019-11-02T07:55:59,291Z [driver-pool-thread-1] internal.DriverDSLImpl. - Exception while connecting to RPC, retrying to connect at localhost:10476 {}
+net.corda.client.rpc.RPCException: Cannot connect to server(s). Tried with all available servers.
+	at net.corda.client.rpc.internal.RPCClientProxyHandler.start(RPCClientProxyHandler.kt:232) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.internal.RPCClient$start$1.invoke(RPCClient.kt:93) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.internal.RPCClient$start$1.invoke(RPCClient.kt:32) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.core.internal.InternalUtils.logElapsedTime(InternalUtils.kt:197) ~[corda-core-4.3-RC02.jar:?]
+	at net.corda.core.internal.InternalUtils.logElapsedTime(InternalUtils.kt:187) ~[corda-core-4.3-RC02.jar:?]
+	at net.corda.client.rpc.internal.RPCClient.start(RPCClient.kt:72) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.CordaRPCClient.start(CordaRPCClient.kt:561) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.CordaRPCClient.start(CordaRPCClient.kt:517) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.CordaRPCClient.start(CordaRPCClient.kt:471) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.CordaRPCClient.start$default(CordaRPCClient.kt:469) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.testing.node.internal.DriverDSLImpl$establishRpc$connectionFuture$1.invoke(DriverDSLImpl.kt:164) ~[corda-node-driver-4.3-RC02.jar:?]
+	at net.corda.testing.node.internal.DriverDSLImpl$establishRpc$connectionFuture$1.invoke(DriverDSLImpl.kt:78) ~[corda-node-driver-4.3-RC02.jar:?]
+	at net.corda.testing.node.internal.InternalTestUtilsKt$poll$task$1.run(InternalTestUtils.kt:206) ~[corda-node-driver-4.3-RC02.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_222]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_222]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) ~[?:1.8.0_222]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[?:1.8.0_222]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) ~[?:1.8.0_222]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) ~[?:1.8.0_222]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_222]
+Caused by: org.apache.activemq.artemis.api.core.ActiveMQNotConnectedException: AMQ119007: Cannot connect to server(s). Tried with all available servers.
+	at org.apache.activemq.artemis.core.client.impl.ServerLocatorImpl.createSessionFactory(ServerLocatorImpl.java:797) ~[artemis-core-client-2.6.2.jar:2.6.2]
+	at net.corda.client.rpc.internal.RPCClientProxyHandler.start(RPCClientProxyHandler.kt:230) ~[corda-rpc-4.3-RC02.jar:?]
+	... 19 more
+[INFO ] 2019-11-02T07:56:01,556Z [driver-pool-thread-1] internal.RPCClient. - Startup took 1763 msec {}
+[INFO ] 2019-11-02T07:56:01,683Z [driver-pool-thread-0] internal.DriverDSLImpl. - Node handle is ready. NodeInfo: NodeInfo(addresses=[localhost:10475], legalIdentitiesAndCerts=[O=Notary, L=London, C=GB], platformVersion=5, serial=1572681353973), WebAddress: localhost:10478 {}
+[INFO ] 2019-11-02T07:56:01,716Z [Test worker] network.NodeInfoFilesCopier. - Now watching: /home/suhas/Downloads/corda-node-diagnosticsv1/corda-node-diagnostics/clients/build/node-driver/20191102-075539.920/ParticipantA {}
+[INFO ] 2019-11-02T07:56:01,717Z [Test worker] internal.DriverDSLImpl. - Starting out-of-process Node ParticipantA, debug port is 10484 {}
+[INFO ] 2019-11-02T07:56:16,744Z [driver-pool-thread-0] internal.RPCClient. - Failed Startup took 7 msec {}
+[INFO ] 2019-11-02T07:56:16,744Z [driver-pool-thread-0] internal.DriverDSLImpl. - Exception while connecting to RPC, retrying to connect at localhost:10481 {}
+net.corda.client.rpc.RPCException: Cannot connect to server(s). Tried with all available servers.
+	at net.corda.client.rpc.internal.RPCClientProxyHandler.start(RPCClientProxyHandler.kt:232) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.internal.RPCClient$start$1.invoke(RPCClient.kt:93) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.internal.RPCClient$start$1.invoke(RPCClient.kt:32) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.core.internal.InternalUtils.logElapsedTime(InternalUtils.kt:197) ~[corda-core-4.3-RC02.jar:?]
+	at net.corda.core.internal.InternalUtils.logElapsedTime(InternalUtils.kt:187) ~[corda-core-4.3-RC02.jar:?]
+	at net.corda.client.rpc.internal.RPCClient.start(RPCClient.kt:72) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.CordaRPCClient.start(CordaRPCClient.kt:561) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.CordaRPCClient.start(CordaRPCClient.kt:517) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.CordaRPCClient.start(CordaRPCClient.kt:471) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.CordaRPCClient.start$default(CordaRPCClient.kt:469) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.testing.node.internal.DriverDSLImpl$establishRpc$connectionFuture$1.invoke(DriverDSLImpl.kt:164) ~[corda-node-driver-4.3-RC02.jar:?]
+	at net.corda.testing.node.internal.DriverDSLImpl$establishRpc$connectionFuture$1.invoke(DriverDSLImpl.kt:78) ~[corda-node-driver-4.3-RC02.jar:?]
+	at net.corda.testing.node.internal.InternalTestUtilsKt$poll$task$1.run(InternalTestUtils.kt:206) ~[corda-node-driver-4.3-RC02.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_222]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_222]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) ~[?:1.8.0_222]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[?:1.8.0_222]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) ~[?:1.8.0_222]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) ~[?:1.8.0_222]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_222]
+Caused by: org.apache.activemq.artemis.api.core.ActiveMQNotConnectedException: AMQ119007: Cannot connect to server(s). Tried with all available servers.
+	at org.apache.activemq.artemis.core.client.impl.ServerLocatorImpl.createSessionFactory(ServerLocatorImpl.java:797) ~[artemis-core-client-2.6.2.jar:2.6.2]
+	at net.corda.client.rpc.internal.RPCClientProxyHandler.start(RPCClientProxyHandler.kt:230) ~[corda-rpc-4.3-RC02.jar:?]
+	... 19 more
+[INFO ] 2019-11-02T07:56:17,247Z [driver-pool-thread-0] internal.RPCClient. - Failed Startup took 2 msec {}
+[INFO ] 2019-11-02T07:56:17,247Z [driver-pool-thread-0] internal.DriverDSLImpl. - Exception while connecting to RPC, retrying to connect at localhost:10481 {}
+net.corda.client.rpc.RPCException: Cannot connect to server(s). Tried with all available servers.
+	at net.corda.client.rpc.internal.RPCClientProxyHandler.start(RPCClientProxyHandler.kt:232) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.internal.RPCClient$start$1.invoke(RPCClient.kt:93) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.internal.RPCClient$start$1.invoke(RPCClient.kt:32) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.core.internal.InternalUtils.logElapsedTime(InternalUtils.kt:197) ~[corda-core-4.3-RC02.jar:?]
+	at net.corda.core.internal.InternalUtils.logElapsedTime(InternalUtils.kt:187) ~[corda-core-4.3-RC02.jar:?]
+	at net.corda.client.rpc.internal.RPCClient.start(RPCClient.kt:72) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.CordaRPCClient.start(CordaRPCClient.kt:561) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.CordaRPCClient.start(CordaRPCClient.kt:517) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.CordaRPCClient.start(CordaRPCClient.kt:471) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.CordaRPCClient.start$default(CordaRPCClient.kt:469) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.testing.node.internal.DriverDSLImpl$establishRpc$connectionFuture$1.invoke(DriverDSLImpl.kt:164) ~[corda-node-driver-4.3-RC02.jar:?]
+	at net.corda.testing.node.internal.DriverDSLImpl$establishRpc$connectionFuture$1.invoke(DriverDSLImpl.kt:78) ~[corda-node-driver-4.3-RC02.jar:?]
+	at net.corda.testing.node.internal.InternalTestUtilsKt$poll$task$1.run(InternalTestUtils.kt:206) ~[corda-node-driver-4.3-RC02.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_222]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_222]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) ~[?:1.8.0_222]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[?:1.8.0_222]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) ~[?:1.8.0_222]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) ~[?:1.8.0_222]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_222]
+Caused by: org.apache.activemq.artemis.api.core.ActiveMQNotConnectedException: AMQ119007: Cannot connect to server(s). Tried with all available servers.
+	at org.apache.activemq.artemis.core.client.impl.ServerLocatorImpl.createSessionFactory(ServerLocatorImpl.java:797) ~[artemis-core-client-2.6.2.jar:2.6.2]
+	at net.corda.client.rpc.internal.RPCClientProxyHandler.start(RPCClientProxyHandler.kt:230) ~[corda-rpc-4.3-RC02.jar:?]
+	... 19 more
+[INFO ] 2019-11-02T07:56:17,753Z [driver-pool-thread-0] internal.RPCClient. - Failed Startup took 6 msec {}
+[INFO ] 2019-11-02T07:56:17,754Z [driver-pool-thread-0] internal.DriverDSLImpl. - Exception while connecting to RPC, retrying to connect at localhost:10481 {}
+net.corda.client.rpc.RPCException: Cannot connect to server(s). Tried with all available servers.
+	at net.corda.client.rpc.internal.RPCClientProxyHandler.start(RPCClientProxyHandler.kt:232) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.internal.RPCClient$start$1.invoke(RPCClient.kt:93) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.internal.RPCClient$start$1.invoke(RPCClient.kt:32) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.core.internal.InternalUtils.logElapsedTime(InternalUtils.kt:197) ~[corda-core-4.3-RC02.jar:?]
+	at net.corda.core.internal.InternalUtils.logElapsedTime(InternalUtils.kt:187) ~[corda-core-4.3-RC02.jar:?]
+	at net.corda.client.rpc.internal.RPCClient.start(RPCClient.kt:72) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.CordaRPCClient.start(CordaRPCClient.kt:561) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.CordaRPCClient.start(CordaRPCClient.kt:517) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.CordaRPCClient.start(CordaRPCClient.kt:471) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.CordaRPCClient.start$default(CordaRPCClient.kt:469) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.testing.node.internal.DriverDSLImpl$establishRpc$connectionFuture$1.invoke(DriverDSLImpl.kt:164) ~[corda-node-driver-4.3-RC02.jar:?]
+	at net.corda.testing.node.internal.DriverDSLImpl$establishRpc$connectionFuture$1.invoke(DriverDSLImpl.kt:78) ~[corda-node-driver-4.3-RC02.jar:?]
+	at net.corda.testing.node.internal.InternalTestUtilsKt$poll$task$1.run(InternalTestUtils.kt:206) ~[corda-node-driver-4.3-RC02.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_222]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_222]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) ~[?:1.8.0_222]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[?:1.8.0_222]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) ~[?:1.8.0_222]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) ~[?:1.8.0_222]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_222]
+Caused by: org.apache.activemq.artemis.api.core.ActiveMQNotConnectedException: AMQ119007: Cannot connect to server(s). Tried with all available servers.
+	at org.apache.activemq.artemis.core.client.impl.ServerLocatorImpl.createSessionFactory(ServerLocatorImpl.java:797) ~[artemis-core-client-2.6.2.jar:2.6.2]
+	at net.corda.client.rpc.internal.RPCClientProxyHandler.start(RPCClientProxyHandler.kt:230) ~[corda-rpc-4.3-RC02.jar:?]
+	... 19 more
+[INFO ] 2019-11-02T07:56:18,261Z [driver-pool-thread-1] internal.RPCClient. - Failed Startup took 6 msec {}
+[INFO ] 2019-11-02T07:56:18,261Z [driver-pool-thread-1] internal.DriverDSLImpl. - Exception while connecting to RPC, retrying to connect at localhost:10481 {}
+net.corda.client.rpc.RPCException: Cannot connect to server(s). Tried with all available servers.
+	at net.corda.client.rpc.internal.RPCClientProxyHandler.start(RPCClientProxyHandler.kt:232) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.internal.RPCClient$start$1.invoke(RPCClient.kt:93) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.internal.RPCClient$start$1.invoke(RPCClient.kt:32) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.core.internal.InternalUtils.logElapsedTime(InternalUtils.kt:197) ~[corda-core-4.3-RC02.jar:?]
+	at net.corda.core.internal.InternalUtils.logElapsedTime(InternalUtils.kt:187) ~[corda-core-4.3-RC02.jar:?]
+	at net.corda.client.rpc.internal.RPCClient.start(RPCClient.kt:72) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.CordaRPCClient.start(CordaRPCClient.kt:561) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.CordaRPCClient.start(CordaRPCClient.kt:517) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.CordaRPCClient.start(CordaRPCClient.kt:471) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.CordaRPCClient.start$default(CordaRPCClient.kt:469) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.testing.node.internal.DriverDSLImpl$establishRpc$connectionFuture$1.invoke(DriverDSLImpl.kt:164) ~[corda-node-driver-4.3-RC02.jar:?]
+	at net.corda.testing.node.internal.DriverDSLImpl$establishRpc$connectionFuture$1.invoke(DriverDSLImpl.kt:78) ~[corda-node-driver-4.3-RC02.jar:?]
+	at net.corda.testing.node.internal.InternalTestUtilsKt$poll$task$1.run(InternalTestUtils.kt:206) ~[corda-node-driver-4.3-RC02.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_222]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_222]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) ~[?:1.8.0_222]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[?:1.8.0_222]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) ~[?:1.8.0_222]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) ~[?:1.8.0_222]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_222]
+Caused by: org.apache.activemq.artemis.api.core.ActiveMQNotConnectedException: AMQ119007: Cannot connect to server(s). Tried with all available servers.
+	at org.apache.activemq.artemis.core.client.impl.ServerLocatorImpl.createSessionFactory(ServerLocatorImpl.java:797) ~[artemis-core-client-2.6.2.jar:2.6.2]
+	at net.corda.client.rpc.internal.RPCClientProxyHandler.start(RPCClientProxyHandler.kt:230) ~[corda-rpc-4.3-RC02.jar:?]
+	... 19 more
+[INFO ] 2019-11-02T07:56:18,769Z [driver-pool-thread-1] internal.RPCClient. - Failed Startup took 7 msec {}
+[INFO ] 2019-11-02T07:56:18,769Z [driver-pool-thread-1] internal.DriverDSLImpl. - Exception while connecting to RPC, retrying to connect at localhost:10481 {}
+net.corda.client.rpc.RPCException: Cannot connect to server(s). Tried with all available servers.
+	at net.corda.client.rpc.internal.RPCClientProxyHandler.start(RPCClientProxyHandler.kt:232) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.internal.RPCClient$start$1.invoke(RPCClient.kt:93) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.internal.RPCClient$start$1.invoke(RPCClient.kt:32) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.core.internal.InternalUtils.logElapsedTime(InternalUtils.kt:197) ~[corda-core-4.3-RC02.jar:?]
+	at net.corda.core.internal.InternalUtils.logElapsedTime(InternalUtils.kt:187) ~[corda-core-4.3-RC02.jar:?]
+	at net.corda.client.rpc.internal.RPCClient.start(RPCClient.kt:72) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.CordaRPCClient.start(CordaRPCClient.kt:561) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.CordaRPCClient.start(CordaRPCClient.kt:517) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.CordaRPCClient.start(CordaRPCClient.kt:471) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.CordaRPCClient.start$default(CordaRPCClient.kt:469) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.testing.node.internal.DriverDSLImpl$establishRpc$connectionFuture$1.invoke(DriverDSLImpl.kt:164) ~[corda-node-driver-4.3-RC02.jar:?]
+	at net.corda.testing.node.internal.DriverDSLImpl$establishRpc$connectionFuture$1.invoke(DriverDSLImpl.kt:78) ~[corda-node-driver-4.3-RC02.jar:?]
+	at net.corda.testing.node.internal.InternalTestUtilsKt$poll$task$1.run(InternalTestUtils.kt:206) ~[corda-node-driver-4.3-RC02.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_222]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_222]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) ~[?:1.8.0_222]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[?:1.8.0_222]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) ~[?:1.8.0_222]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) ~[?:1.8.0_222]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_222]
+Caused by: org.apache.activemq.artemis.api.core.ActiveMQNotConnectedException: AMQ119007: Cannot connect to server(s). Tried with all available servers.
+	at org.apache.activemq.artemis.core.client.impl.ServerLocatorImpl.createSessionFactory(ServerLocatorImpl.java:797) ~[artemis-core-client-2.6.2.jar:2.6.2]
+	at net.corda.client.rpc.internal.RPCClientProxyHandler.start(RPCClientProxyHandler.kt:230) ~[corda-rpc-4.3-RC02.jar:?]
+	... 19 more
+[INFO ] 2019-11-02T07:56:19,271Z [driver-pool-thread-1] internal.RPCClient. - Failed Startup took 2 msec {}
+[INFO ] 2019-11-02T07:56:19,271Z [driver-pool-thread-1] internal.DriverDSLImpl. - Exception while connecting to RPC, retrying to connect at localhost:10481 {}
+net.corda.client.rpc.RPCException: Cannot connect to server(s). Tried with all available servers.
+	at net.corda.client.rpc.internal.RPCClientProxyHandler.start(RPCClientProxyHandler.kt:232) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.internal.RPCClient$start$1.invoke(RPCClient.kt:93) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.internal.RPCClient$start$1.invoke(RPCClient.kt:32) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.core.internal.InternalUtils.logElapsedTime(InternalUtils.kt:197) ~[corda-core-4.3-RC02.jar:?]
+	at net.corda.core.internal.InternalUtils.logElapsedTime(InternalUtils.kt:187) ~[corda-core-4.3-RC02.jar:?]
+	at net.corda.client.rpc.internal.RPCClient.start(RPCClient.kt:72) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.CordaRPCClient.start(CordaRPCClient.kt:561) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.CordaRPCClient.start(CordaRPCClient.kt:517) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.CordaRPCClient.start(CordaRPCClient.kt:471) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.client.rpc.CordaRPCClient.start$default(CordaRPCClient.kt:469) ~[corda-rpc-4.3-RC02.jar:?]
+	at net.corda.testing.node.internal.DriverDSLImpl$establishRpc$connectionFuture$1.invoke(DriverDSLImpl.kt:164) ~[corda-node-driver-4.3-RC02.jar:?]
+	at net.corda.testing.node.internal.DriverDSLImpl$establishRpc$connectionFuture$1.invoke(DriverDSLImpl.kt:78) ~[corda-node-driver-4.3-RC02.jar:?]
+	at net.corda.testing.node.internal.InternalTestUtilsKt$poll$task$1.run(InternalTestUtils.kt:206) ~[corda-node-driver-4.3-RC02.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_222]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_222]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) ~[?:1.8.0_222]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[?:1.8.0_222]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) ~[?:1.8.0_222]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) ~[?:1.8.0_222]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_222]
+Caused by: org.apache.activemq.artemis.api.core.ActiveMQNotConnectedException: AMQ119007: Cannot connect to server(s). Tried with all available servers.
+	at org.apache.activemq.artemis.core.client.impl.ServerLocatorImpl.createSessionFactory(ServerLocatorImpl.java:797) ~[artemis-core-client-2.6.2.jar:2.6.2]
+	at net.corda.client.rpc.internal.RPCClientProxyHandler.start(RPCClientProxyHandler.kt:230) ~[corda-rpc-4.3-RC02.jar:?]
+	... 19 more
+[INFO ] 2019-11-02T07:56:21,172Z [driver-pool-thread-1] internal.RPCClient. - Startup took 1400 msec {}
+[INFO ] 2019-11-02T07:56:21,242Z [driver-pool-thread-0] internal.DriverDSLImpl. - Node handle is ready. NodeInfo: NodeInfo(addresses=[localhost:10480], legalIdentitiesAndCerts=[O=ParticipantA, L=London, C=GB], platformVersion=5, serial=1572681373348), WebAddress: localhost:10483 {}
+[INFO ] 2019-11-02T08:19:01,903 [main] RPCClient - Startup took 1253 msec
+[INFO ] 2019-11-02T08:19:02,052 [main] Client - NodeDiagnosticInfo(version=4.3-RC02, revision=fbc3d543db32269efe9224328f35b40c7f149ab4, platformVersion=5, vendor=Corda Open Source, cordapps=[CordappInfo(type=CorDapp, name=cordapp-contracts-states-0.1, shortName=cordapp-contracts-states-0.1, minimumPlatformVersion=1, targetPlatformVersion=1, version=Unknown, vendor=Unknown, licence=Unknown, jarHash=0E36E9C6224CAC883DFAEAB3DA3FA7EDA16CCC562CF380ED88157A10D15F3EEB), CordappInfo(type=CorDapp, name=cordapp-0.1, shortName=cordapp-0.1, minimumPlatformVersion=1, targetPlatformVersion=1, version=Unknown, vendor=Unknown, licence=Unknown, jarHash=C8660C4D8B61498AFE4C98DD16406496130448DE4A076B318B8E2A2206F5BC1A), CordappInfo(type=CorDapp, name=corda-node-diagnostics-0.1, shortName=CorDapp, minimumPlatformVersion=4, targetPlatformVersion=4, version=0.1, vendor=Corda Open Source, licence=Unknown, jarHash=CE68A2A022E1645AF9AC7BD66D4E9BFB8B6ADDBC82E5F29F820EE6E991A1F75C)])
+[WARN ] 2019-11-02T08:19:42,240 [background-preinit] Jackson2ObjectMapperBuilder - For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+[INFO ] 2019-11-02T08:19:42,251 [main] Server - Starting Server on ubuntu with PID 25846 (/home/suhas/Downloads/corda-node-diagnosticsv1/corda-node-diagnostics/clients/build/classes/java/main started by root in /home/suhas/Downloads/corda-node-diagnosticsv1/corda-node-diagnostics/clients)
+[INFO ] 2019-11-02T08:19:42,252 [main] Server - No active profile set, falling back to default profiles: default
+[INFO ] 2019-11-02T08:19:42,325 [main] AnnotationConfigServletWebServerApplicationContext - Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@2a448449: startup date [Sat Nov 02 13:49:42 IST 2019]; root of context hierarchy
+[INFO ] 2019-11-02T08:19:43,302 [main] TomcatWebServer - Tomcat initialized with port(s): 10050 (http)
+[INFO ] 2019-11-02T08:19:43,344 [main] Http11NioProtocol - Initializing ProtocolHandler ["http-nio-10050"]
+[INFO ] 2019-11-02T08:19:43,366 [main] StandardService - Starting service [Tomcat]
+[INFO ] 2019-11-02T08:19:43,367 [main] StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.31
+[INFO ] 2019-11-02T08:19:43,378 [localhost-startStop-1] AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib]
+[INFO ] 2019-11-02T08:19:43,527 [localhost-startStop-1] [/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2019-11-02T08:19:43,527 [localhost-startStop-1] ContextLoader - Root WebApplicationContext: initialization completed in 1205 ms
+[INFO ] 2019-11-02T08:19:43,609 [localhost-startStop-1] ServletRegistrationBean - Servlet dispatcherServlet mapped to [/]
+[INFO ] 2019-11-02T08:19:43,612 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+[INFO ] 2019-11-02T08:19:43,613 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+[INFO ] 2019-11-02T08:19:43,613 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+[INFO ] 2019-11-02T08:19:43,613 [localhost-startStop-1] FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+[INFO ] 2019-11-02T08:19:46,127 [main] RPCClient - Startup took 1085 msec
+[INFO ] 2019-11-02T08:19:46,212 [main] SimpleUrlHandlerMapping - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2019-11-02T08:19:46,466 [main] RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@2a448449: startup date [Sat Nov 02 13:49:42 IST 2019]; root of context hierarchy
+[INFO ] 2019-11-02T08:19:46,534 [main] RequestMappingHandlerMapping - Mapped "{[/getCordAppInfo],methods=[GET],produces=[application/json]}" onto private net.corda.core.node.NodeDiagnosticInfo com.nodediagnostic.webserver.Controller.getCordAppInfoData()
+[INFO ] 2019-11-02T08:19:46,537 [main] RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+[INFO ] 2019-11-02T08:19:46,538 [main] RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+[INFO ] 2019-11-02T08:19:46,559 [main] SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2019-11-02T08:19:46,559 [main] SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2019-11-02T08:19:46,603 [main] WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+[INFO ] 2019-11-02T08:19:47,541 [main] AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+[INFO ] 2019-11-02T08:19:47,563 [main] Http11NioProtocol - Starting ProtocolHandler ["http-nio-10050"]
+[INFO ] 2019-11-02T08:19:47,570 [main] NioSelectorPool - Using a shared selector for servlet write/read
+[INFO ] 2019-11-02T08:19:47,599 [main] TomcatWebServer - Tomcat started on port(s): 10050 (http) with context path ''
+[INFO ] 2019-11-02T08:19:47,604 [main] Server - Started Server in 6.467 seconds (JVM running for 7.084)
+[INFO ] 2019-11-02T08:20:38,305 [http-nio-10050-exec-1] [/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+[INFO ] 2019-11-02T08:20:38,305 [http-nio-10050-exec-1] DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization started
+[INFO ] 2019-11-02T08:20:38,321 [http-nio-10050-exec-1] DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization completed in 15 ms
+[INFO ] 2019-11-02T08:20:38,600 [http-nio-10050-exec-1] RPCClient - Startup took 182 msec

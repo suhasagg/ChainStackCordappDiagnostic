@@ -1,0 +1,277 @@
+DEBUG StatusLogger Using ShutdownCallbackRegistry class org.apache.logging.log4j.core.util.DefaultShutdownCallbackRegistry
+DEBUG StatusLogger Took 0.163309 seconds to load 212 plugins from sun.misc.Launcher$AppClassLoader@18b4aac2
+DEBUG StatusLogger PluginManager 'Converter' found 47 plugins
+DEBUG StatusLogger Starting OutputStreamManager SYSTEM_OUT.false.false-1
+TRACE StatusLogger [AsyncContextNoThreadLocal@18b4aac2] AsyncLoggers have been modified to use a vararg translator
+TRACE StatusLogger [AsyncContextNoThreadLocal@18b4aac2] AsyncLoggerDisruptor creating new disruptor for this context.
+TRACE StatusLogger property AsyncLogger.WaitStrategy=TIMEOUT
+DEBUG StatusLogger [AsyncContextNoThreadLocal@18b4aac2] Starting AsyncLogger disruptor for this context with ringbufferSize=262144, waitStrategy=TimeoutBlockingWaitStrategy, exceptionHandler=org.apache.logging.log4j.core.async.AsyncLoggerDefaultExceptionHandler@5778826f...
+TRACE StatusLogger [AsyncContextNoThreadLocal@18b4aac2] AsyncLoggers use a vararg translator
+DEBUG StatusLogger Starting LoggerContext[name=AsyncContextNoThreadLocal@18b4aac2, org.apache.logging.log4j.core.async.AsyncLoggerContext@5b64c4b7]...
+DEBUG StatusLogger Reconfiguration started for context[name=AsyncContextNoThreadLocal@18b4aac2] at URI null (org.apache.logging.log4j.core.async.AsyncLoggerContext@5b64c4b7) with optional ClassLoader: null
+DEBUG StatusLogger PluginManager 'ConfigurationFactory' found 5 plugins
+DEBUG StatusLogger Using configurationFactory org.apache.logging.log4j.core.config.ConfigurationFactory$Factory@38f57b3d
+TRACE StatusLogger Trying to find [log4j2-testAsyncContextNoThreadLocal@18b4aac2.properties] using context class loader sun.misc.Launcher$AppClassLoader@18b4aac2.
+TRACE StatusLogger Trying to find [log4j2-testAsyncContextNoThreadLocal@18b4aac2.properties] using sun.misc.Launcher$AppClassLoader@18b4aac2 class loader.
+TRACE StatusLogger Trying to find [log4j2-testAsyncContextNoThreadLocal@18b4aac2.properties] using sun.misc.Launcher$AppClassLoader@18b4aac2 class loader.
+TRACE StatusLogger Trying to find [log4j2-testAsyncContextNoThreadLocal@18b4aac2.properties] using ClassLoader.getSystemResource().
+TRACE StatusLogger Trying to find [log4j2-testAsyncContextNoThreadLocal@18b4aac2.yml] using context class loader sun.misc.Launcher$AppClassLoader@18b4aac2.
+TRACE StatusLogger Trying to find [log4j2-testAsyncContextNoThreadLocal@18b4aac2.yml] using sun.misc.Launcher$AppClassLoader@18b4aac2 class loader.
+TRACE StatusLogger Trying to find [log4j2-testAsyncContextNoThreadLocal@18b4aac2.yml] using sun.misc.Launcher$AppClassLoader@18b4aac2 class loader.
+TRACE StatusLogger Trying to find [log4j2-testAsyncContextNoThreadLocal@18b4aac2.yml] using ClassLoader.getSystemResource().
+TRACE StatusLogger Trying to find [log4j2-testAsyncContextNoThreadLocal@18b4aac2.yaml] using context class loader sun.misc.Launcher$AppClassLoader@18b4aac2.
+TRACE StatusLogger Trying to find [log4j2-testAsyncContextNoThreadLocal@18b4aac2.yaml] using sun.misc.Launcher$AppClassLoader@18b4aac2 class loader.
+TRACE StatusLogger Trying to find [log4j2-testAsyncContextNoThreadLocal@18b4aac2.yaml] using sun.misc.Launcher$AppClassLoader@18b4aac2 class loader.
+TRACE StatusLogger Trying to find [log4j2-testAsyncContextNoThreadLocal@18b4aac2.yaml] using ClassLoader.getSystemResource().
+TRACE StatusLogger Trying to find [log4j2-testAsyncContextNoThreadLocal@18b4aac2.json] using context class loader sun.misc.Launcher$AppClassLoader@18b4aac2.
+TRACE StatusLogger Trying to find [log4j2-testAsyncContextNoThreadLocal@18b4aac2.json] using sun.misc.Launcher$AppClassLoader@18b4aac2 class loader.
+TRACE StatusLogger Trying to find [log4j2-testAsyncContextNoThreadLocal@18b4aac2.json] using sun.misc.Launcher$AppClassLoader@18b4aac2 class loader.
+TRACE StatusLogger Trying to find [log4j2-testAsyncContextNoThreadLocal@18b4aac2.json] using ClassLoader.getSystemResource().
+TRACE StatusLogger Trying to find [log4j2-testAsyncContextNoThreadLocal@18b4aac2.jsn] using context class loader sun.misc.Launcher$AppClassLoader@18b4aac2.
+TRACE StatusLogger Trying to find [log4j2-testAsyncContextNoThreadLocal@18b4aac2.jsn] using sun.misc.Launcher$AppClassLoader@18b4aac2 class loader.
+TRACE StatusLogger Trying to find [log4j2-testAsyncContextNoThreadLocal@18b4aac2.jsn] using sun.misc.Launcher$AppClassLoader@18b4aac2 class loader.
+TRACE StatusLogger Trying to find [log4j2-testAsyncContextNoThreadLocal@18b4aac2.jsn] using ClassLoader.getSystemResource().
+TRACE StatusLogger Trying to find [log4j2-testAsyncContextNoThreadLocal@18b4aac2.xml] using context class loader sun.misc.Launcher$AppClassLoader@18b4aac2.
+TRACE StatusLogger Trying to find [log4j2-testAsyncContextNoThreadLocal@18b4aac2.xml] using sun.misc.Launcher$AppClassLoader@18b4aac2 class loader.
+TRACE StatusLogger Trying to find [log4j2-testAsyncContextNoThreadLocal@18b4aac2.xml] using sun.misc.Launcher$AppClassLoader@18b4aac2 class loader.
+TRACE StatusLogger Trying to find [log4j2-testAsyncContextNoThreadLocal@18b4aac2.xml] using ClassLoader.getSystemResource().
+TRACE StatusLogger Trying to find [log4j2-testAsyncContextNoThreadLocal@18b4aac2.springboot] using context class loader sun.misc.Launcher$AppClassLoader@18b4aac2.
+TRACE StatusLogger Trying to find [log4j2-testAsyncContextNoThreadLocal@18b4aac2.springboot] using sun.misc.Launcher$AppClassLoader@18b4aac2 class loader.
+TRACE StatusLogger Trying to find [log4j2-testAsyncContextNoThreadLocal@18b4aac2.springboot] using sun.misc.Launcher$AppClassLoader@18b4aac2 class loader.
+TRACE StatusLogger Trying to find [log4j2-testAsyncContextNoThreadLocal@18b4aac2.springboot] using ClassLoader.getSystemResource().
+TRACE StatusLogger Trying to find [log4j2-test.properties] using context class loader sun.misc.Launcher$AppClassLoader@18b4aac2.
+TRACE StatusLogger Trying to find [log4j2-test.properties] using sun.misc.Launcher$AppClassLoader@18b4aac2 class loader.
+TRACE StatusLogger Trying to find [log4j2-test.properties] using sun.misc.Launcher$AppClassLoader@18b4aac2 class loader.
+TRACE StatusLogger Trying to find [log4j2-test.properties] using ClassLoader.getSystemResource().
+TRACE StatusLogger Trying to find [log4j2-test.yml] using context class loader sun.misc.Launcher$AppClassLoader@18b4aac2.
+TRACE StatusLogger Trying to find [log4j2-test.yml] using sun.misc.Launcher$AppClassLoader@18b4aac2 class loader.
+TRACE StatusLogger Trying to find [log4j2-test.yml] using sun.misc.Launcher$AppClassLoader@18b4aac2 class loader.
+TRACE StatusLogger Trying to find [log4j2-test.yml] using ClassLoader.getSystemResource().
+TRACE StatusLogger Trying to find [log4j2-test.yaml] using context class loader sun.misc.Launcher$AppClassLoader@18b4aac2.
+TRACE StatusLogger Trying to find [log4j2-test.yaml] using sun.misc.Launcher$AppClassLoader@18b4aac2 class loader.
+TRACE StatusLogger Trying to find [log4j2-test.yaml] using sun.misc.Launcher$AppClassLoader@18b4aac2 class loader.
+TRACE StatusLogger Trying to find [log4j2-test.yaml] using ClassLoader.getSystemResource().
+TRACE StatusLogger Trying to find [log4j2-test.json] using context class loader sun.misc.Launcher$AppClassLoader@18b4aac2.
+TRACE StatusLogger Trying to find [log4j2-test.json] using sun.misc.Launcher$AppClassLoader@18b4aac2 class loader.
+TRACE StatusLogger Trying to find [log4j2-test.json] using sun.misc.Launcher$AppClassLoader@18b4aac2 class loader.
+TRACE StatusLogger Trying to find [log4j2-test.json] using ClassLoader.getSystemResource().
+TRACE StatusLogger Trying to find [log4j2-test.jsn] using context class loader sun.misc.Launcher$AppClassLoader@18b4aac2.
+TRACE StatusLogger Trying to find [log4j2-test.jsn] using sun.misc.Launcher$AppClassLoader@18b4aac2 class loader.
+TRACE StatusLogger Trying to find [log4j2-test.jsn] using sun.misc.Launcher$AppClassLoader@18b4aac2 class loader.
+TRACE StatusLogger Trying to find [log4j2-test.jsn] using ClassLoader.getSystemResource().
+TRACE StatusLogger Trying to find [log4j2-test.xml] using context class loader sun.misc.Launcher$AppClassLoader@18b4aac2.
+DEBUG StatusLogger Closing JarURLInputStream sun.net.www.protocol.jar.JarURLConnection$JarURLInputStream@4ba534b0
+DEBUG StatusLogger Apache Log4j Core 2.11.2 initializing configuration XmlConfiguration[location=jar:file:/root/.gradle/caches/modules-2/files-2.1/net.corda/corda-test-common/4.3-RC02/9ac9b959bdeb76d2545929b323e83bd299c7bcec/corda-test-common-4.3-RC02.jar!/log4j2-test.xml]
+DEBUG StatusLogger Installed 2 script engines
+DEBUG StatusLogger Oracle Nashorn version: 1.8.0_222, language: ECMAScript, threading: Not Thread Safe, compile: true, names: [nashorn, Nashorn, js, JS, JavaScript, javascript, ECMAScript, ecmascript], factory class: jdk.nashorn.api.scripting.NashornScriptEngineFactory
+DEBUG StatusLogger Groovy Scripting Engine version: 2.0, language: Groovy, threading: MULTITHREADED, compile: true, names: [groovy, Groovy], factory class: org.codehaus.groovy.jsr223.GroovyScriptEngineFactory
+INFO StatusLogger Scanning for classes in '/root/.gradle/caches/modules-2/files-2.1/net.corda/corda-common-logging/4.3-RC02/e5b05cfb6d3c110e813e9030d9c31e7361e2e8a0/corda-common-logging-4.3-RC02.jar' matching criteria annotated with @Plugin
+DEBUG StatusLogger Checking to see if class net.corda.common.logging.CordaVersion$Companion$vendor$2 matches criteria annotated with @Plugin
+DEBUG StatusLogger Checking to see if class net.corda.common.logging.ExceptionsErrorCodeFunctionsKt$customHashCode$2 matches criteria annotated with @Plugin
+DEBUG StatusLogger Checking to see if class net.corda.common.logging.CordaVersion$Companion$platformVersion$2 matches criteria annotated with @Plugin
+DEBUG StatusLogger Checking to see if class net.corda.common.logging.CordaVersion matches criteria annotated with @Plugin
+DEBUG StatusLogger Checking to see if class net.corda.common.logging.Constants matches criteria annotated with @Plugin
+DEBUG StatusLogger Checking to see if class net.corda.common.logging.CompositeMessage matches criteria annotated with @Plugin
+DEBUG StatusLogger Checking to see if class net.corda.common.logging.ExceptionsErrorCodeFunctionsKt$errorCode$1 matches criteria annotated with @Plugin
+DEBUG StatusLogger Checking to see if class net.corda.common.logging.CordaVersion$Companion$semanticVersion$2 matches criteria annotated with @Plugin
+DEBUG StatusLogger Checking to see if class net.corda.common.logging.ErrorCodeRewritePolicy$Companion matches criteria annotated with @Plugin
+DEBUG StatusLogger Checking to see if class net.corda.common.logging.CordaVersion$Companion matches criteria annotated with @Plugin
+DEBUG StatusLogger Checking to see if class net.corda.common.logging.CordaVersion$Companion$releaseVersion$2 matches criteria annotated with @Plugin
+DEBUG StatusLogger Checking to see if class net.corda.common.logging.ExceptionsErrorCodeFunctionsKt matches criteria annotated with @Plugin
+DEBUG StatusLogger Checking to see if class net.corda.common.logging.ErrorCodeRewritePolicy matches criteria annotated with @Plugin
+DEBUG StatusLogger Checking to see if class net.corda.common.logging.CordaVersion$Companion$revision$2 matches criteria annotated with @Plugin
+DEBUG StatusLogger Took 0.046232 seconds to load 1 plugins from package net.corda.common.logging
+DEBUG StatusLogger PluginManager 'Core' found 119 plugins
+DEBUG StatusLogger PluginManager 'Level' found 0 plugins
+DEBUG StatusLogger Building Plugin[name=property, class=org.apache.logging.log4j.core.config.Property].
+TRACE StatusLogger TypeConverterRegistry initializing.
+DEBUG StatusLogger PluginManager 'TypeConverter' found 26 plugins
+DEBUG StatusLogger createProperty(name="log-path", value="/home/suhas/Downloads/corda-node-diagnosticsv1/corda-node-diagnostics/clients/build/node-driver/20191101-182731.859/ParticipantB/logs")
+DEBUG StatusLogger Building Plugin[name=property, class=org.apache.logging.log4j.core.config.Property].
+DEBUG StatusLogger createProperty(name="log-name", value="node-ubuntu")
+DEBUG StatusLogger Building Plugin[name=property, class=org.apache.logging.log4j.core.config.Property].
+DEBUG StatusLogger createProperty(name="archive", value="${log-path}/archive")
+DEBUG StatusLogger Building Plugin[name=property, class=org.apache.logging.log4j.core.config.Property].
+DEBUG StatusLogger createProperty(name="defaultLogLevel", value="debug")
+DEBUG StatusLogger Building Plugin[name=properties, class=org.apache.logging.log4j.core.config.PropertiesPlugin].
+DEBUG StatusLogger configureSubstitutor(={log-path=/home/suhas/Downloads/corda-node-diagnosticsv1/corda-node-diagnostics/clients/build/node-driver/20191101-182731.859/ParticipantB/logs, log-name=node-ubuntu, archive=${log-path}/archive, defaultLogLevel=debug}, Configuration(jar:file:/root/.gradle/caches/modules-2/files-2.1/net.corda/corda-test-common/4.3-RC02/9ac9b959bdeb76d2545929b323e83bd299c7bcec/corda-test-common-4.3-RC02.jar!/log4j2-test.xml))
+DEBUG StatusLogger PluginManager 'Lookup' found 14 plugins
+DEBUG StatusLogger Building Plugin[name=filter, class=org.apache.logging.log4j.core.filter.ThresholdFilter].
+DEBUG StatusLogger createFilter(level="TRACE", onMatch="null", onMismatch="null")
+DEBUG StatusLogger Building Plugin[name=Script, class=org.apache.logging.log4j.core.script.Script].
+DEBUG StatusLogger createScript(name="MDCSelector", language="javascript", scriptText="result = null;
+                    if (!logEvent.getContextData().size() == 0) {
+                        result = "WithMDC";
+                    } else {
+                        result = null;
+                    }
+                    result;")
+DEBUG StatusLogger Building Plugin[name=PatternMatch, class=org.apache.logging.log4j.core.layout.PatternMatch].
+DEBUG StatusLogger PatternMatch$Builder(, key="WithMDC", pattern="%highlight{[%level{length=5}] %date{HH:mm:ss,SSS} [%t] %c{2}.%method - %msg %X%n}{INFO=white,WARN=red,FATAL=bright red}")
+DEBUG StatusLogger Building Plugin[name=patternSelector, class=org.apache.logging.log4j.core.layout.ScriptPatternSelector].
+DEBUG StatusLogger ScriptPatternSelector$Builder(Script(MDCSelector), ={WithMDC=%highlight{[%level{length=5}] %date{HH:mm:ss,SSS} [%t] %c{2}.%method - %msg %X%n}{INFO=white,WARN=red,FATAL=bright red}}, defaultPattern="%highlight{[%level{length=5}] %date{HH:mm:ss,SSS} [%t] %c{2}.%method - %msg%n}{INFO=white,WARN=red,FATAL=bright red}", alwaysWriteExceptions="null", disableAnsi="null", noConsoleNoAnsi="null", Configuration(jar:file:/root/.gradle/caches/modules-2/files-2.1/net.corda/corda-test-common/4.3-RC02/9ac9b959bdeb76d2545929b323e83bd299c7bcec/corda-test-common-4.3-RC02.jar!/log4j2-test.xml))
+DEBUG StatusLogger PluginManager 'Converter' found 47 plugins
+DEBUG StatusLogger Building Plugin[name=layout, class=org.apache.logging.log4j.core.layout.PatternLayout].
+DEBUG StatusLogger PatternLayout$Builder(pattern="null", ScriptPatternSelector(key="WithMDC", pattern="%highlight{[%level{length=5}] %date{HH:mm:ss,SSS} [%t] %c{2}.%method - %msg %X%n}{INFO=white,WARN=red,FATAL=bright red}", default="%highlight{[%level{length=5}] %date{HH:mm:ss,SSS} [%t] %c{2}.%method - %msg%n}{INFO=white,WARN=red,FATAL=bright red}"), Configuration(jar:file:/root/.gradle/caches/modules-2/files-2.1/net.corda/corda-test-common/4.3-RC02/9ac9b959bdeb76d2545929b323e83bd299c7bcec/corda-test-common-4.3-RC02.jar!/log4j2-test.xml), Replace=null, charset="null", alwaysWriteExceptions="null", disableAnsi="null", noConsoleNoAnsi="null", header="null", footer="null")
+DEBUG StatusLogger Building Plugin[name=filter, class=org.apache.logging.log4j.core.filter.ThresholdFilter].
+DEBUG StatusLogger createFilter(level="TRACE", onMatch="null", onMismatch="null")
+DEBUG StatusLogger Building Plugin[name=appender, class=org.apache.logging.log4j.core.appender.ConsoleAppender].
+DEBUG StatusLogger ConsoleAppender$Builder(target="SYSTEM_OUT", follow="null", direct="null", bufferedIo="null", bufferSize="null", immediateFlush="null", ignoreExceptions="null", PatternLayout(key="WithMDC", pattern="%highlight{[%level{length=5}] %date{HH:mm:ss,SSS} [%t] %c{2}.%method - %msg %X%n}{INFO=white,WARN=red,FATAL=bright red}", default="%highlight{[%level{length=5}] %date{HH:mm:ss,SSS} [%t] %c{2}.%method - %msg%n}{INFO=white,WARN=red,FATAL=bright red}"), name="Console-Appender", Configuration(jar:file:/root/.gradle/caches/modules-2/files-2.1/net.corda/corda-test-common/4.3-RC02/9ac9b959bdeb76d2545929b323e83bd299c7bcec/corda-test-common-4.3-RC02.jar!/log4j2-test.xml), ThresholdFilter(TRACE), ={})
+DEBUG StatusLogger Starting OutputStreamManager SYSTEM_OUT.false.false
+DEBUG StatusLogger Building Plugin[name=layout, class=org.apache.logging.log4j.core.layout.PatternLayout].
+DEBUG StatusLogger PatternLayout$Builder(pattern="%msg%n", PatternSelector=null, Configuration(jar:file:/root/.gradle/caches/modules-2/files-2.1/net.corda/corda-test-common/4.3-RC02/9ac9b959bdeb76d2545929b323e83bd299c7bcec/corda-test-common-4.3-RC02.jar!/log4j2-test.xml), Replace=null, charset="null", alwaysWriteExceptions="null", disableAnsi="null", noConsoleNoAnsi="null", header="null", footer="null")
+DEBUG StatusLogger Building Plugin[name=appender, class=org.apache.logging.log4j.core.appender.ConsoleAppender].
+DEBUG StatusLogger ConsoleAppender$Builder(target="SYSTEM_OUT", follow="null", direct="null", bufferedIo="null", bufferSize="null", immediateFlush="null", ignoreExceptions="null", PatternLayout(%msg%n), name="Console-Appender-Println", Configuration(jar:file:/root/.gradle/caches/modules-2/files-2.1/net.corda/corda-test-common/4.3-RC02/9ac9b959bdeb76d2545929b323e83bd299c7bcec/corda-test-common-4.3-RC02.jar!/log4j2-test.xml), Filter=null, ={})
+DEBUG StatusLogger Building Plugin[name=layout, class=org.apache.logging.log4j.core.layout.PatternLayout].
+DEBUG StatusLogger PatternLayout$Builder(pattern="[%-5level] %date{ISO8601}{UTC}Z [%t] %c{2}.%method - %msg %X%n", PatternSelector=null, Configuration(jar:file:/root/.gradle/caches/modules-2/files-2.1/net.corda/corda-test-common/4.3-RC02/9ac9b959bdeb76d2545929b323e83bd299c7bcec/corda-test-common-4.3-RC02.jar!/log4j2-test.xml), Replace=null, charset="null", alwaysWriteExceptions="null", disableAnsi="null", noConsoleNoAnsi="null", header="null", footer="null")
+DEBUG StatusLogger Building Plugin[name=TimeBasedTriggeringPolicy, class=org.apache.logging.log4j.core.appender.rolling.TimeBasedTriggeringPolicy].
+DEBUG StatusLogger TimeBasedTriggeringPolicy$Builder(interval="null", modulate="null", maxRandomDelay="null")
+DEBUG StatusLogger Building Plugin[name=SizeBasedTriggeringPolicy, class=org.apache.logging.log4j.core.appender.rolling.SizeBasedTriggeringPolicy].
+DEBUG StatusLogger createPolicy(size="10MB")
+DEBUG StatusLogger Building Plugin[name=Policies, class=org.apache.logging.log4j.core.appender.rolling.CompositeTriggeringPolicy].
+DEBUG StatusLogger createPolicy(={TimeBasedTriggeringPolicy(nextRolloverMillis=0, interval=1, modulate=false), SizeBasedTriggeringPolicy(size=10485760)})
+DEBUG StatusLogger Building Plugin[name=IfFileName, class=org.apache.logging.log4j.core.appender.rolling.action.IfFileName].
+DEBUG StatusLogger createNameCondition(glob="node-ubuntu*.log.gz", regex="null", ={})
+DEBUG StatusLogger Building Plugin[name=IfAccumulatedFileSize, class=org.apache.logging.log4j.core.appender.rolling.action.IfAccumulatedFileSize].
+DEBUG StatusLogger createFileSizeCondition(exceeds="10 GB", ={})
+DEBUG StatusLogger Building Plugin[name=IfAny, class=org.apache.logging.log4j.core.appender.rolling.action.IfAny].
+DEBUG StatusLogger createOrCondition(={IfAccumulatedFileSize(exceeds=10737418240)})
+DEBUG StatusLogger Building Plugin[name=IfLastModified, class=org.apache.logging.log4j.core.appender.rolling.action.IfLastModified].
+DEBUG StatusLogger createAgeCondition(age="P60D", ={IfAny[IfAccumulatedFileSize(exceeds=10737418240)]})
+TRACE StatusLogger Using default SystemClock for timestamps.
+DEBUG StatusLogger org.apache.logging.log4j.core.util.SystemClock does not support precise timestamps.
+DEBUG StatusLogger Building Plugin[name=Delete, class=org.apache.logging.log4j.core.appender.rolling.action.DeleteAction].
+DEBUG StatusLogger createDeleteAction(basePath="/home/suhas/Downloads/corda-node-diagnosticsv1/corda-node-diagnostics/clients/build/node-driver/20191101-182731.859/ParticipantB/logs/archive", followLinks="false", maxDepth="1", testMode="false", PathSorter=null, ={IfFileName(glob:node-ubuntu*.log.gz), IfLastModified(age=P60D AND [IfAny[IfAccumulatedFileSize(exceeds=10737418240)]])}, ScriptCondition=null, Configuration(jar:file:/root/.gradle/caches/modules-2/files-2.1/net.corda/corda-test-common/4.3-RC02/9ac9b959bdeb76d2545929b323e83bd299c7bcec/corda-test-common-4.3-RC02.jar!/log4j2-test.xml))
+DEBUG StatusLogger Building Plugin[name=DefaultRolloverStrategy, class=org.apache.logging.log4j.core.appender.rolling.DefaultRolloverStrategy].
+DEBUG StatusLogger DefaultRolloverStrategy$Builder(max="100", min="1", fileIndex="null", compressionLevel="null", ={DeleteAction[basePath=/home/suhas/Downloads/corda-node-diagnosticsv1/corda-node-diagnostics/clients/build/node-driver/20191101-182731.859/ParticipantB/logs/archive, options=[], maxDepth=1, conditions=[IfFileName(glob:node-ubuntu*.log.gz), IfLastModified(age=P60D AND [IfAny[IfAccumulatedFileSize(exceeds=10737418240)]])]]}, stopCustomActionsOnError="null", tempCompressedFilePattern="null", Configuration(jar:file:/root/.gradle/caches/modules-2/files-2.1/net.corda/corda-test-common/4.3-RC02/9ac9b959bdeb76d2545929b323e83bd299c7bcec/corda-test-common-4.3-RC02.jar!/log4j2-test.xml))
+DEBUG StatusLogger Building Plugin[name=appender, class=org.apache.logging.log4j.core.appender.RollingRandomAccessFileAppender].
+DEBUG StatusLogger RollingRandomAccessFileAppender$Builder(fileName="/home/suhas/Downloads/corda-node-diagnosticsv1/corda-node-diagnostics/clients/build/node-driver/20191101-182731.859/ParticipantB/logs/node-ubuntu.log", filePattern="/home/suhas/Downloads/corda-node-diagnosticsv1/corda-node-diagnostics/clients/build/node-driver/20191101-182731.859/ParticipantB/logs/archive/node-ubuntu.%date{yyyy-MM-dd}-%i.log.gz", append="null", Policies(CompositeTriggeringPolicy(policies=[TimeBasedTriggeringPolicy(nextRolloverMillis=0, interval=1, modulate=false), SizeBasedTriggeringPolicy(size=10485760)])), DefaultRolloverStrategy(DefaultRolloverStrategy(min=1, max=100, useMax=true)), advertise="null", advertiseURI="null", filePermissions="null", fileOwner="null", fileGroup="null", bufferedIo="null", bufferSize="null", immediateFlush="null", ignoreExceptions="null", PatternLayout([%-5level] %date{ISO8601}{UTC}Z [%t] %c{2}.%method - %msg %X%n), name="RollingFile-Appender", Configuration(jar:file:/root/.gradle/caches/modules-2/files-2.1/net.corda/corda-test-common/4.3-RC02/9ac9b959bdeb76d2545929b323e83bd299c7bcec/corda-test-common-4.3-RC02.jar!/log4j2-test.xml), Filter=null, ={})
+TRACE StatusLogger RandomAccessFile /home/suhas/Downloads/corda-node-diagnosticsv1/corda-node-diagnostics/clients/build/node-driver/20191101-182731.859/ParticipantB/logs/node-ubuntu.log seek to 0
+DEBUG StatusLogger Starting RollingRandomAccessFileManager /home/suhas/Downloads/corda-node-diagnosticsv1/corda-node-diagnostics/clients/build/node-driver/20191101-182731.859/ParticipantB/logs/node-ubuntu.log
+DEBUG StatusLogger PluginManager 'FileConverter' found 2 plugins
+DEBUG StatusLogger Setting prev file time to 2019-11-01T23:58:04.560+0530
+DEBUG StatusLogger Initializing triggering policy CompositeTriggeringPolicy(policies=[TimeBasedTriggeringPolicy(nextRolloverMillis=0, interval=1, modulate=false), SizeBasedTriggeringPolicy(size=10485760)])
+DEBUG StatusLogger Initializing triggering policy TimeBasedTriggeringPolicy(nextRolloverMillis=0, interval=1, modulate=false)
+TRACE StatusLogger PatternProcessor.getNextTime returning 2019/11/02-00:00:00.000, nextFileTime=2019/11/01-00:00:00.000, prevFileTime=1970/01/01-05:30:00.000, current=2019/11/01-23:58:04.576, freq=DAILY
+TRACE StatusLogger PatternProcessor.getNextTime returning 2019/11/02-00:00:00.000, nextFileTime=2019/11/01-00:00:00.000, prevFileTime=2019/11/01-00:00:00.000, current=2019/11/01-23:58:04.579, freq=DAILY
+DEBUG StatusLogger Initializing triggering policy SizeBasedTriggeringPolicy(size=10485760)
+DEBUG StatusLogger Building Plugin[name=AppenderRef, class=org.apache.logging.log4j.core.config.AppenderRef].
+DEBUG StatusLogger createAppenderRef(ref="Console-Appender", level="null", Filter=null)
+DEBUG StatusLogger Building Plugin[name=rewritePolicy, class=net.corda.common.logging.ErrorCodeRewritePolicy].
+DEBUG StatusLogger createPolicy()
+DEBUG StatusLogger Building Plugin[name=appender, class=org.apache.logging.log4j.core.appender.rewrite.RewriteAppender].
+DEBUG StatusLogger createAppender(name="Console-ErrorCode-Appender", ignoreExceptions="null", ={Console-Appender}, Configuration(jar:file:/root/.gradle/caches/modules-2/files-2.1/net.corda/corda-test-common/4.3-RC02/9ac9b959bdeb76d2545929b323e83bd299c7bcec/corda-test-common-4.3-RC02.jar!/log4j2-test.xml), ErrorCodeRewritePolicy(net.corda.common.logging.ErrorCodeRewritePolicy with name ErrorCodeRewritePolicy), Filter=null)
+DEBUG StatusLogger Building Plugin[name=AppenderRef, class=org.apache.logging.log4j.core.config.AppenderRef].
+DEBUG StatusLogger createAppenderRef(ref="Console-Appender-Println", level="null", Filter=null)
+DEBUG StatusLogger Building Plugin[name=rewritePolicy, class=net.corda.common.logging.ErrorCodeRewritePolicy].
+DEBUG StatusLogger createPolicy()
+DEBUG StatusLogger Building Plugin[name=appender, class=org.apache.logging.log4j.core.appender.rewrite.RewriteAppender].
+DEBUG StatusLogger createAppender(name="Console-ErrorCode-Appender-Println", ignoreExceptions="null", ={Console-Appender-Println}, Configuration(jar:file:/root/.gradle/caches/modules-2/files-2.1/net.corda/corda-test-common/4.3-RC02/9ac9b959bdeb76d2545929b323e83bd299c7bcec/corda-test-common-4.3-RC02.jar!/log4j2-test.xml), ErrorCodeRewritePolicy(net.corda.common.logging.ErrorCodeRewritePolicy with name ErrorCodeRewritePolicy), Filter=null)
+DEBUG StatusLogger Building Plugin[name=AppenderRef, class=org.apache.logging.log4j.core.config.AppenderRef].
+DEBUG StatusLogger createAppenderRef(ref="RollingFile-Appender", level="null", Filter=null)
+DEBUG StatusLogger Building Plugin[name=rewritePolicy, class=net.corda.common.logging.ErrorCodeRewritePolicy].
+DEBUG StatusLogger createPolicy()
+DEBUG StatusLogger Building Plugin[name=appender, class=org.apache.logging.log4j.core.appender.rewrite.RewriteAppender].
+DEBUG StatusLogger createAppender(name="RollingFile-ErrorCode-Appender", ignoreExceptions="null", ={RollingFile-Appender}, Configuration(jar:file:/root/.gradle/caches/modules-2/files-2.1/net.corda/corda-test-common/4.3-RC02/9ac9b959bdeb76d2545929b323e83bd299c7bcec/corda-test-common-4.3-RC02.jar!/log4j2-test.xml), ErrorCodeRewritePolicy(net.corda.common.logging.ErrorCodeRewritePolicy with name ErrorCodeRewritePolicy), Filter=null)
+DEBUG StatusLogger Building Plugin[name=appenders, class=org.apache.logging.log4j.core.config.AppendersPlugin].
+DEBUG StatusLogger createAppenders(={Console-Appender, Console-Appender-Println, RollingFile-Appender, Console-ErrorCode-Appender, Console-ErrorCode-Appender-Println, RollingFile-ErrorCode-Appender})
+DEBUG StatusLogger Building Plugin[name=AppenderRef, class=org.apache.logging.log4j.core.config.AppenderRef].
+DEBUG StatusLogger createAppenderRef(ref="Console-ErrorCode-Appender", level="null", Filter=null)
+DEBUG StatusLogger Building Plugin[name=root, class=org.apache.logging.log4j.core.config.LoggerConfig$RootLogger].
+DEBUG StatusLogger createLogger(additivity="null", level="INFO", includeLocation="null", ={Console-ErrorCode-Appender}, ={}, Configuration(jar:file:/root/.gradle/caches/modules-2/files-2.1/net.corda/corda-test-common/4.3-RC02/9ac9b959bdeb76d2545929b323e83bd299c7bcec/corda-test-common-4.3-RC02.jar!/log4j2-test.xml), Filter=null)
+DEBUG StatusLogger Building Plugin[name=AppenderRef, class=org.apache.logging.log4j.core.config.AppenderRef].
+DEBUG StatusLogger createAppenderRef(ref="Console-ErrorCode-Appender", level="null", Filter=null)
+DEBUG StatusLogger Building Plugin[name=AppenderRef, class=org.apache.logging.log4j.core.config.AppenderRef].
+DEBUG StatusLogger createAppenderRef(ref="RollingFile-ErrorCode-Appender", level="null", Filter=null)
+DEBUG StatusLogger Building Plugin[name=logger, class=org.apache.logging.log4j.core.config.LoggerConfig].
+DEBUG StatusLogger createLogger(additivity="false", level="DEBUG", name="net.corda", includeLocation="null", ={Console-ErrorCode-Appender, RollingFile-ErrorCode-Appender}, ={}, Configuration(jar:file:/root/.gradle/caches/modules-2/files-2.1/net.corda/corda-test-common/4.3-RC02/9ac9b959bdeb76d2545929b323e83bd299c7bcec/corda-test-common-4.3-RC02.jar!/log4j2-test.xml), Filter=null)
+DEBUG StatusLogger Building Plugin[name=AppenderRef, class=org.apache.logging.log4j.core.config.AppenderRef].
+DEBUG StatusLogger createAppenderRef(ref="Console-ErrorCode-Appender-Println", level="null", Filter=null)
+DEBUG StatusLogger Building Plugin[name=AppenderRef, class=org.apache.logging.log4j.core.config.AppenderRef].
+DEBUG StatusLogger createAppenderRef(ref="RollingFile-ErrorCode-Appender", level="null", Filter=null)
+DEBUG StatusLogger Building Plugin[name=logger, class=org.apache.logging.log4j.core.config.LoggerConfig].
+DEBUG StatusLogger createLogger(additivity="false", level="null", name="BasicInfo", includeLocation="null", ={Console-ErrorCode-Appender-Println, RollingFile-ErrorCode-Appender}, ={}, Configuration(jar:file:/root/.gradle/caches/modules-2/files-2.1/net.corda/corda-test-common/4.3-RC02/9ac9b959bdeb76d2545929b323e83bd299c7bcec/corda-test-common-4.3-RC02.jar!/log4j2-test.xml), Filter=null)
+DEBUG StatusLogger Building Plugin[name=AppenderRef, class=org.apache.logging.log4j.core.config.AppenderRef].
+DEBUG StatusLogger createAppenderRef(ref="Console-ErrorCode-Appender", level="null", Filter=null)
+DEBUG StatusLogger Building Plugin[name=AppenderRef, class=org.apache.logging.log4j.core.config.AppenderRef].
+DEBUG StatusLogger createAppenderRef(ref="RollingFile-ErrorCode-Appender", level="null", Filter=null)
+DEBUG StatusLogger Building Plugin[name=logger, class=org.apache.logging.log4j.core.config.LoggerConfig].
+DEBUG StatusLogger createLogger(additivity="false", level="INFO", name="org.hibernate.SQL", includeLocation="null", ={Console-ErrorCode-Appender, RollingFile-ErrorCode-Appender}, ={}, Configuration(jar:file:/root/.gradle/caches/modules-2/files-2.1/net.corda/corda-test-common/4.3-RC02/9ac9b959bdeb76d2545929b323e83bd299c7bcec/corda-test-common-4.3-RC02.jar!/log4j2-test.xml), Filter=null)
+DEBUG StatusLogger Building Plugin[name=AppenderRef, class=org.apache.logging.log4j.core.config.AppenderRef].
+DEBUG StatusLogger createAppenderRef(ref="Console-ErrorCode-Appender", level="null", Filter=null)
+DEBUG StatusLogger Building Plugin[name=AppenderRef, class=org.apache.logging.log4j.core.config.AppenderRef].
+DEBUG StatusLogger createAppenderRef(ref="RollingFile-ErrorCode-Appender", level="null", Filter=null)
+DEBUG StatusLogger Building Plugin[name=logger, class=org.apache.logging.log4j.core.config.LoggerConfig].
+DEBUG StatusLogger createLogger(additivity="false", level="ERROR", name="org.apache.activemq.artemis.core.server", includeLocation="null", ={Console-ErrorCode-Appender, RollingFile-ErrorCode-Appender}, ={}, Configuration(jar:file:/root/.gradle/caches/modules-2/files-2.1/net.corda/corda-test-common/4.3-RC02/9ac9b959bdeb76d2545929b323e83bd299c7bcec/corda-test-common-4.3-RC02.jar!/log4j2-test.xml), Filter=null)
+DEBUG StatusLogger Building Plugin[name=AppenderRef, class=org.apache.logging.log4j.core.config.AppenderRef].
+DEBUG StatusLogger createAppenderRef(ref="Console-ErrorCode-Appender-Println", level="null", Filter=null)
+DEBUG StatusLogger Building Plugin[name=AppenderRef, class=org.apache.logging.log4j.core.config.AppenderRef].
+DEBUG StatusLogger createAppenderRef(ref="RollingFile-ErrorCode-Appender", level="null", Filter=null)
+DEBUG StatusLogger Building Plugin[name=logger, class=org.apache.logging.log4j.core.config.LoggerConfig].
+DEBUG StatusLogger createLogger(additivity="true", level="WARN", name="org.jolokia", includeLocation="null", ={Console-ErrorCode-Appender-Println, RollingFile-ErrorCode-Appender}, ={}, Configuration(jar:file:/root/.gradle/caches/modules-2/files-2.1/net.corda/corda-test-common/4.3-RC02/9ac9b959bdeb76d2545929b323e83bd299c7bcec/corda-test-common-4.3-RC02.jar!/log4j2-test.xml), Filter=null)
+DEBUG StatusLogger Building Plugin[name=loggers, class=org.apache.logging.log4j.core.config.LoggersPlugin].
+DEBUG StatusLogger createLoggers(={root, net.corda, BasicInfo, org.hibernate.SQL, org.apache.activemq.artemis.core.server, org.jolokia})
+DEBUG StatusLogger Configuration XmlConfiguration[location=jar:file:/root/.gradle/caches/modules-2/files-2.1/net.corda/corda-test-common/4.3-RC02/9ac9b959bdeb76d2545929b323e83bd299c7bcec/corda-test-common-4.3-RC02.jar!/log4j2-test.xml] initialized
+DEBUG StatusLogger Starting configuration XmlConfiguration[location=jar:file:/root/.gradle/caches/modules-2/files-2.1/net.corda/corda-test-common/4.3-RC02/9ac9b959bdeb76d2545929b323e83bd299c7bcec/corda-test-common-4.3-RC02.jar!/log4j2-test.xml]
+DEBUG StatusLogger Started configuration XmlConfiguration[location=jar:file:/root/.gradle/caches/modules-2/files-2.1/net.corda/corda-test-common/4.3-RC02/9ac9b959bdeb76d2545929b323e83bd299c7bcec/corda-test-common-4.3-RC02.jar!/log4j2-test.xml] OK.
+TRACE StatusLogger Stopping org.apache.logging.log4j.core.config.DefaultConfiguration@37e4d7bb...
+TRACE StatusLogger DefaultConfiguration notified 1 ReliabilityStrategies that config will be stopped.
+TRACE StatusLogger DefaultConfiguration stopping root LoggerConfig.
+TRACE StatusLogger DefaultConfiguration notifying ReliabilityStrategies that appenders will be stopped.
+TRACE StatusLogger DefaultConfiguration stopping remaining Appenders.
+DEBUG StatusLogger Shutting down OutputStreamManager SYSTEM_OUT.false.false-1
+DEBUG StatusLogger Shut down OutputStreamManager SYSTEM_OUT.false.false-1, all resources released: true
+DEBUG StatusLogger Appender DefaultConsole-1 stopped with status true
+TRACE StatusLogger DefaultConfiguration stopped 1 remaining Appenders.
+TRACE StatusLogger DefaultConfiguration cleaning Appenders from 1 LoggerConfigs.
+DEBUG StatusLogger Stopped org.apache.logging.log4j.core.config.DefaultConfiguration@37e4d7bb OK
+TRACE StatusLogger Reregistering MBeans after reconfigure. Selector=net.corda.node.utilities.logging.AsyncLoggerContextSelectorNoThreadLocal@2e380628
+TRACE StatusLogger Reregistering context (1/1): 'AsyncContextNoThreadLocal@18b4aac2' org.apache.logging.log4j.core.async.AsyncLoggerContext@5b64c4b7
+TRACE StatusLogger Unregistering but no MBeans found matching 'org.apache.logging.log4j2:type=AsyncContextNoThreadLocal@18b4aac2'
+TRACE StatusLogger Unregistering but no MBeans found matching 'org.apache.logging.log4j2:type=AsyncContextNoThreadLocal@18b4aac2,component=StatusLogger'
+TRACE StatusLogger Unregistering but no MBeans found matching 'org.apache.logging.log4j2:type=AsyncContextNoThreadLocal@18b4aac2,component=ContextSelector'
+TRACE StatusLogger Unregistering but no MBeans found matching 'org.apache.logging.log4j2:type=AsyncContextNoThreadLocal@18b4aac2,component=Loggers,name=*'
+TRACE StatusLogger Unregistering but no MBeans found matching 'org.apache.logging.log4j2:type=AsyncContextNoThreadLocal@18b4aac2,component=Appenders,name=*'
+TRACE StatusLogger Unregistering but no MBeans found matching 'org.apache.logging.log4j2:type=AsyncContextNoThreadLocal@18b4aac2,component=AsyncAppenders,name=*'
+TRACE StatusLogger Unregistering but no MBeans found matching 'org.apache.logging.log4j2:type=AsyncContextNoThreadLocal@18b4aac2,component=AsyncLoggerRingBuffer'
+TRACE StatusLogger Unregistering but no MBeans found matching 'org.apache.logging.log4j2:type=AsyncContextNoThreadLocal@18b4aac2,component=Loggers,name=*,subtype=RingBuffer'
+DEBUG StatusLogger Registering MBean org.apache.logging.log4j2:type=AsyncContextNoThreadLocal@18b4aac2
+DEBUG StatusLogger Registering MBean org.apache.logging.log4j2:type=AsyncContextNoThreadLocal@18b4aac2,component=AsyncLoggerRingBuffer
+DEBUG StatusLogger Registering MBean org.apache.logging.log4j2:type=AsyncContextNoThreadLocal@18b4aac2,component=StatusLogger
+DEBUG StatusLogger Registering MBean org.apache.logging.log4j2:type=AsyncContextNoThreadLocal@18b4aac2,component=ContextSelector
+DEBUG StatusLogger Registering MBean org.apache.logging.log4j2:type=AsyncContextNoThreadLocal@18b4aac2,component=Loggers,name=
+DEBUG StatusLogger Registering MBean org.apache.logging.log4j2:type=AsyncContextNoThreadLocal@18b4aac2,component=Loggers,name=org.jolokia
+DEBUG StatusLogger Registering MBean org.apache.logging.log4j2:type=AsyncContextNoThreadLocal@18b4aac2,component=Loggers,name=org.apache.activemq.artemis.core.server
+DEBUG StatusLogger Registering MBean org.apache.logging.log4j2:type=AsyncContextNoThreadLocal@18b4aac2,component=Loggers,name=org.hibernate.SQL
+DEBUG StatusLogger Registering MBean org.apache.logging.log4j2:type=AsyncContextNoThreadLocal@18b4aac2,component=Loggers,name=net.corda
+DEBUG StatusLogger Registering MBean org.apache.logging.log4j2:type=AsyncContextNoThreadLocal@18b4aac2,component=Loggers,name=BasicInfo
+DEBUG StatusLogger Registering MBean org.apache.logging.log4j2:type=AsyncContextNoThreadLocal@18b4aac2,component=Appenders,name=RollingFile-ErrorCode-Appender
+DEBUG StatusLogger Registering MBean org.apache.logging.log4j2:type=AsyncContextNoThreadLocal@18b4aac2,component=Appenders,name=Console-Appender-Println
+DEBUG StatusLogger Registering MBean org.apache.logging.log4j2:type=AsyncContextNoThreadLocal@18b4aac2,component=Appenders,name=Console-ErrorCode-Appender-Println
+DEBUG StatusLogger Registering MBean org.apache.logging.log4j2:type=AsyncContextNoThreadLocal@18b4aac2,component=Appenders,name=RollingFile-Appender
+DEBUG StatusLogger Registering MBean org.apache.logging.log4j2:type=AsyncContextNoThreadLocal@18b4aac2,component=Appenders,name=Console-ErrorCode-Appender
+DEBUG StatusLogger Registering MBean org.apache.logging.log4j2:type=AsyncContextNoThreadLocal@18b4aac2,component=Appenders,name=Console-Appender
+TRACE StatusLogger Using default SystemClock for timestamps.
+DEBUG StatusLogger org.apache.logging.log4j.core.util.SystemClock does not support precise timestamps.
+TRACE StatusLogger Using DummyNanoClock for nanosecond timestamps.
+DEBUG StatusLogger Reconfiguration complete for context[name=AsyncContextNoThreadLocal@18b4aac2] at URI jar:file:/root/.gradle/caches/modules-2/files-2.1/net.corda/corda-test-common/4.3-RC02/9ac9b959bdeb76d2545929b323e83bd299c7bcec/corda-test-common-4.3-RC02.jar!/log4j2-test.xml (org.apache.logging.log4j.core.async.AsyncLoggerContext@5b64c4b7) with optional ClassLoader: null
+DEBUG StatusLogger Shutdown hook enabled. Registering a new one.
+DEBUG StatusLogger LoggerContext[name=AsyncContextNoThreadLocal@18b4aac2, org.apache.logging.log4j.core.async.AsyncLoggerContext@5b64c4b7] started OK.
+TRACE StatusLogger Using default SystemClock for timestamps.
+DEBUG StatusLogger org.apache.logging.log4j.core.util.SystemClock does not support precise timestamps.
+DEBUG StatusLogger AsyncLogger.ThreadNameStrategy=UNCACHED (user specified null, default is UNCACHED)
+DEBUG StatusLogger Script MDCSelector is compilable
+TRACE StatusLogger PatternProcessor.getNextTime returning 2019/11/03-00:00:00.000, nextFileTime=2019/11/02-00:00:00.000, prevFileTime=2019/11/01-00:00:00.000, current=2019/11/02-00:00:00.150, freq=DAILY
+DEBUG StatusLogger Formatting file name. useCurrentTime=false. currentFileTime=1572633000151, prevFileTime=1572546600000
+DEBUG StatusLogger Formatting file name. useCurrentTime=false. currentFileTime=1572633000151, prevFileTime=1572546600000
+TRACE StatusLogger DefaultRolloverStrategy.purge() took 1.0 milliseconds
+DEBUG StatusLogger RollingFileManager executing synchronous FileRenameAction[/home/suhas/Downloads/corda-node-diagnosticsv1/corda-node-diagnostics/clients/build/node-driver/20191101-182731.859/ParticipantB/logs/node-ubuntu.log to /home/suhas/Downloads/corda-node-diagnosticsv1/corda-node-diagnostics/clients/build/node-driver/20191101-182731.859/ParticipantB/logs/archive/node-ubuntu.2019-11-01-1.log, renameEmptyFiles=false]
+TRACE StatusLogger Renamed file /home/suhas/Downloads/corda-node-diagnosticsv1/corda-node-diagnostics/clients/build/node-driver/20191101-182731.859/ParticipantB/logs/node-ubuntu.log to /home/suhas/Downloads/corda-node-diagnosticsv1/corda-node-diagnostics/clients/build/node-driver/20191101-182731.859/ParticipantB/logs/archive/node-ubuntu.2019-11-01-1.log with Files.move
+DEBUG StatusLogger RollingFileManager executing async CompositeAction[GzCompressAction[/home/suhas/Downloads/corda-node-diagnosticsv1/corda-node-diagnostics/clients/build/node-driver/20191101-182731.859/ParticipantB/logs/archive/node-ubuntu.2019-11-01-1.log to /home/suhas/Downloads/corda-node-diagnosticsv1/corda-node-diagnostics/clients/build/node-driver/20191101-182731.859/ParticipantB/logs/archive/node-ubuntu.2019-11-01-1.log.gz, deleteSource=true], DeleteAction[basePath=/home/suhas/Downloads/corda-node-diagnosticsv1/corda-node-diagnostics/clients/build/node-driver/20191101-182731.859/ParticipantB/logs/archive, options=[], maxDepth=1, conditions=[IfFileName(glob:node-ubuntu*.log.gz), IfLastModified(age=P60D AND [IfAny[IfAccumulatedFileSize(exceeds=10737418240)]])]]]
+DEBUG StatusLogger Starting DeleteAction[basePath=/home/suhas/Downloads/corda-node-diagnosticsv1/corda-node-diagnostics/clients/build/node-driver/20191101-182731.859/ParticipantB/logs/archive, options=[], maxDepth=1, conditions=[IfFileName(glob:node-ubuntu*.log.gz), IfLastModified(age=P60D AND [IfAny[IfAccumulatedFileSize(exceeds=10737418240)]])]]
+DEBUG StatusLogger DeleteAction complete in 0.00284169 seconds
+TRACE StatusLogger Sorted paths:
+TRACE StatusLogger /home/suhas/Downloads/corda-node-diagnosticsv1/corda-node-diagnostics/clients/build/node-driver/20191101-182731.859/ParticipantB/logs/archive/node-ubuntu.2019-11-01-1.log.gz (modified: 2019-11-01T18:30:00.178311Z)
+TRACE StatusLogger IfFileName ACCEPTED: 'glob:node-ubuntu*.log.gz' matches relative path 'node-ubuntu.2019-11-01-1.log.gz'
+TRACE StatusLogger IfLastModified REJECTED: node-ubuntu.2019-11-01-1.log.gz ageMillis '14' < 'P60D'
+TRACE StatusLogger Not deleting base=/home/suhas/Downloads/corda-node-diagnosticsv1/corda-node-diagnostics/clients/build/node-driver/20191101-182731.859/ParticipantB/logs/archive, relative=node-ubuntu.2019-11-01-1.log.gz

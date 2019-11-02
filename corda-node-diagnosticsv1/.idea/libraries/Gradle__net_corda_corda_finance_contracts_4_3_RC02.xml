@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.corda:corda-finance-contracts:4.3-RC02">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.corda/corda-finance-contracts/4.3-RC02/1758e2c19686cd8e8a3686eda59892c61ffc0502/corda-finance-contracts-4.3-RC02.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.corda/corda-finance-contracts/4.3-RC02/4b5e8304af422fb9eb029233a039c71618c6aac2/corda-finance-contracts-4.3-RC02-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

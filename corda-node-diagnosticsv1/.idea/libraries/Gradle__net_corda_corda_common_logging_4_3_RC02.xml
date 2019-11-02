@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.corda:corda-common-logging:4.3-RC02">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.corda/corda-common-logging/4.3-RC02/e5b05cfb6d3c110e813e9030d9c31e7361e2e8a0/corda-common-logging-4.3-RC02.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.corda/corda-common-logging/4.3-RC02/ab942686100d0f5d206d46c4471bac68054cb4dc/corda-common-logging-4.3-RC02-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

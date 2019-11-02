@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.corda.crash:crash.shell:810d2b774b85d4938be01b9b65e29e4fddbc450b">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.corda.crash/crash.shell/810d2b774b85d4938be01b9b65e29e4fddbc450b/97030acec8dbe6385ee396647f654b38e8c211b9/crash.shell-810d2b774b85d4938be01b9b65e29e4fddbc450b.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.corda.crash/crash.shell/810d2b774b85d4938be01b9b65e29e4fddbc450b/d2e067f9900f6343f5616b0a1dadaa99e5a893d6/crash.shell-810d2b774b85d4938be01b9b65e29e4fddbc450b-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.corda.crash/crash.shell/810d2b774b85d4938be01b9b65e29e4fddbc450b/522886553df09ef3ef62ab9fdad3309cd4bd1599/crash.shell-810d2b774b85d4938be01b9b65e29e4fddbc450b-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

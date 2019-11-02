@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="corda-node-diagnostics.clients.main" target="1.8" />
+      <module name="corda-node-diagnostics.clients.test" target="1.8" />
+      <module name="corda-node-diagnostics.cordapp-contracts-states.main" target="1.8" />
+      <module name="corda-node-diagnostics.cordapp-contracts-states.test" target="1.8" />
+      <module name="corda-node-diagnostics.cordapp.integrationTest" target="1.8" />
+      <module name="corda-node-diagnostics.cordapp.main" target="1.8" />
+      <module name="corda-node-diagnostics.cordapp.test" target="1.8" />
+      <module name="corda-node-diagnostics.main" target="1.8" />
+      <module name="corda-node-diagnostics.test" target="1.8" />
+      <module name="corda-node-diagnosticsv1.clients.main" target="1.8" />
+      <module name="corda-node-diagnosticsv1.clients.test" target="1.8" />
+      <module name="corda-node-diagnosticsv1.cordapp-contracts-states.main" target="1.8" />
+      <module name="corda-node-diagnosticsv1.cordapp-contracts-states.test" target="1.8" />
+      <module name="corda-node-diagnosticsv1.cordapp.integrationTest" target="1.8" />
+      <module name="corda-node-diagnosticsv1.cordapp.main" target="1.8" />
+      <module name="corda-node-diagnosticsv1.cordapp.test" target="1.8" />
+      <module name="corda-node-diagnosticsv1.main" target="1.8" />
+      <module name="corda-node-diagnosticsv1.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
