@@ -46,7 +46,7 @@ and prints Cordapp info of the nodes.
 
 ##### Via the command line
 
-Run the `runnodediagnosticClient` Gradle task. By default, it connects to the node with RPC address `localhost:10006` with 
+Run the `runNodeDiagnosticClient` Gradle task. By default, it connects to the node with RPC address `localhost:10006` with 
 the username `bluefrog` and the password `test`.
 
 ### Webserver
