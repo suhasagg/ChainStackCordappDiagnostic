@@ -80,7 +80,8 @@ While the sole nodediagnostic endpoint is served on:
     http://localhost:10050/getCordAppInfo
     
 Returned Cordapp Info:
-`
+
+```
 { 
    "version":"4.3-RC02",
    "revision":"fbc3d543db32269efe9224328f35b40c7f149ab4",
@@ -133,13 +134,14 @@ Returned Cordapp Info:
          }
       }
    ]
-}`
+}```
 
 #### Syncing Cordapp information in Elasticsearch 
 
 Syncs Node Diagnostics Info to Datastore:Elasticsearch for every Corda Node.
 This reduces RPC calls overhead to Corda nodes and also helps to archive NodeDiagnostic Info for every Node.
 Snapshot of elasticsearch document.
+
 
 {
   "_index": "nodediagnostic",
@@ -203,7 +205,7 @@ Snapshot of elasticsearch document.
     ]
   }
 }
-
+```
 
 
 Reference - 
@@ -211,7 +213,7 @@ https://docs.corda.net/head/cordapp-build-systems.html
 Information is derived from CordApp manifest 
 These attributes are specified in the JAR manifest of the CorDapp.
 
-
+```
 Cordapp-finance-contract
 Manifest-Version: 1.0
 Corda-Platform-Version: 5
@@ -227,11 +229,8 @@ Target-Platform-Version: 5
 Corda-Release-Version: 4.3-RC02
 Cordapp-Contract-Licence: Open Source (Apache 2)
 
-Name: net/corda/finance/contracts/asset/OnLedgerAsset$generateExit$1.c
- lass
+Name: net/corda/finance/contracts/asset/OnLedgerAsset$generateExit$1.class
 SHA-256-Digest: jy8cMRlXuVyPC/2SaMVHKhcqawGQLh1c79jro6rvJD8=
-
-
 
 Cordapp-finance-workflow
 Manifest-Version: 1.0
@@ -250,11 +249,11 @@ Corda-Release-Version: 4.3-RC02
 
 Name: net/corda/finance/flows/TwoPartyDealFlow$Secondary.class
 SHA-256-Digest: gKx5oQFmPj46XtiL31P5Wu+ntYpaR/c0TgJJVJFZv18=
-
+```
 
 
 Configuration parameters  -
-
+```
 elasticsearchhost=localhost
 nodelist=localhost:10006,localhost:10009
 rpcusername=bluefrog
@@ -262,7 +261,7 @@ rpcpassword=test
 elasticsearchsyncperiod=3
 elasticsearchindex=nodediagnostic
 defaultwebservernode=localhost:10006
-
+```
 
 Main module - 
 `
