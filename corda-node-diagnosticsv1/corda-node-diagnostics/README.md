@@ -14,8 +14,8 @@
 ## Interacting with the nodes
 
 ### Shell
-
- `run networkMapSnapshot` to see a list of the other nodes on the network:
+```
+ run networkMapSnapshot` to see a list of the other nodes on the network:
     [
       {
       "addresses" : [ "localhost:10002" ],
@@ -36,6 +36,7 @@
       "serial" : 1541505384742
     }
     ]
+```
 
 ### Client
 
