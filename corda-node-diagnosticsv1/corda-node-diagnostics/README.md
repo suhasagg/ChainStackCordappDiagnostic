@@ -211,7 +211,7 @@ Snapshot of elasticsearch document.
 
 Reference - 
 https://docs.corda.net/head/cordapp-build-systems.html
-Information is derived from CordApp manifest 
+Information is derived from CordApp manifest. 
 These attributes are specified in the JAR manifest of the CorDapp.
 
 ```
