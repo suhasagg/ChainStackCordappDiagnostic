@@ -1,0 +1,42 @@
+syntax = "proto3";
+
+package cordappInfo;
+
+option java_multiple_files = true;
+
+service NodeDiagnosticService {
+    // A simple RPC call to store a NodeDiagnosticInfo
+  rpc PublishNodeDiagnosticData(NodeDiagnosticInfo) returns (Empty) {}
+
+}
+
+message NodeDiagnosticInfo {
+   string id = 1;
+   string nodeId = 2;
+   string timestamp= 3;
+   string version = 4;
+   string revision = 5;
+   string platformVersion = 6;
+   string vendor = 7;
+   repeated CordAppInfo cordApp = 8;
+}
+
+message CordAppInfo {
+  string type = 1;
+  string name = 2;
+  string shortName = 3;
+  string targetPlatformVersion = 4;
+  string minimumPlatformVersion = 5;
+  string vendor = 6;
+  string version = 7;
+  string licence = 8;
+  JarHash jar = 9;
+}
+
+message JarHash {
+  string offset = 1;
+  string size = 2;
+  string bytes = 3;
+}
+
+message Empty {}
