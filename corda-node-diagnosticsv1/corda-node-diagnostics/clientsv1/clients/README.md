@@ -10,6 +10,11 @@ Different Application/Client Threads maintain a long poll connection with SQS. N
 Code also presents a grpc server/client along with Rest API for fetching node Diagnostic Info and publishing Node Diagnostic Info obtained.
 Node Diagnostic Data is also stored in distributed key value store - Dynamo DB.
 Please node this code is in development mode and has few bugs.
+Main url - 
+
+https://github.com/suhasagg/ChainStackCordappDiagnostic/tree/master/corda-node-diagnosticsv1/corda-node-diagnostics/clientsv1/clients/src/main/java/com/nodeDiagnosticInfo
+
+
 
 
  
